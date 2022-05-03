@@ -1,0 +1,3118 @@
+station_origin,station_destination,flows,prodsimest1,prodsimest4,prodsimest5,prodsimest6
+Abbey Road,Bank and Monument,0,141,154,95,50
+Abbey Road,Canary Wharf,1,116,71,95,62
+Abbey Road,Stratford,285,125,137,190,259
+Acton Central,Euston,17,80,80,82,73
+Acton Central,Stratford,11,203,203,159,103
+Acton Town,Bank and Monument,66,155,157,145,125
+Acton Town,Bond Street,27,53,54,55,53
+Acton Town,Canary Wharf,57,120,69,99,75
+Acton Town,Euston,14,44,45,43,39
+Acton Town,Green Park,79,66,67,70,72
+Acton Town,Liverpool Street,55,126,128,115,96
+Acton Town,Oxford Circus,38,99,100,102,100
+Acton Town,Stratford,10,114,115,90,63
+Acton Town,Warren Street,25,45,46,45,42
+Acton Town,Waterloo,32,58,59,59,55
+Acton Town,Westminster,33,42,42,43,42
+Aldgate,Bank and Monument,5,133,135,215,316
+Aldgate,Bond Street,13,40,40,35,25
+Aldgate,Canary Wharf,1,93,53,79,54
+Aldgate,Euston,4,34,34,32,25
+Aldgate,Green Park,3,49,50,44,32
+Aldgate,Liverpool Street,67,115,116,247,511
+Aldgate,Oxford Circus,15,74,76,68,50
+Aldgate,Stratford,6,88,89,72,47
+Aldgate,Warren Street,0,34,35,31,23
+Aldgate,Waterloo,3,45,46,48,42
+Aldgate,Westminster,14,32,32,31,25
+Aldgate East,Bank and Monument,95,143,145,220,315
+Aldgate East,Bond Street,39,43,44,38,28
+Aldgate East,Canary Wharf,3,103,59,99,81
+Aldgate East,Euston,13,37,37,35,28
+Aldgate East,Green Park,46,53,54,47,35
+Aldgate East,Liverpool Street,47,122,123,236,446
+Aldgate East,Oxford Circus,50,81,82,74,56
+Aldgate East,Stratford,82,97,99,89,68
+Aldgate East,Warren Street,3,37,38,34,26
+Aldgate East,Waterloo,49,49,50,51,46
+Aldgate East,Westminster,100,34,35,33,27
+All Saints,Bank and Monument,93,168,184,126,80
+All Saints,Canary Wharf,67,149,92,208,277
+All Saints,Stratford,258,131,143,114,86
+Alperton,Bank and Monument,7,78,79,74,67
+Alperton,Bond Street,1,27,27,27,27
+Alperton,Canary Wharf,7,60,35,52,42
+Alperton,Euston,2,22,22,22,20
+Alperton,Green Park,22,33,33,34,35
+Alperton,Liverpool Street,4,63,64,59,52
+Alperton,Oxford Circus,3,49,50,50,50
+Alperton,Stratford,2,57,58,48,37
+Alperton,Warren Street,1,23,23,23,22
+Alperton,Waterloo,3,29,30,29,28
+Alperton,Westminster,4,21,21,21,21
+Amersham,Bank and Monument,14,56,57,55,53
+Amersham,Bond Street,11,19,19,19,20
+Amersham,Canary Wharf,54,44,25,41,37
+Amersham,Green Park,15,23,24,23,23
+Amersham,Liverpool Street,57,45,46,44,43
+Amersham,Oxford Circus,15,35,36,36,36
+Amersham,Stratford,4,42,43,39,36
+Amersham,Warren Street,0,16,16,16,16
+Amersham,Waterloo,15,21,21,21,20
+Amersham,Westminster,27,15,15,15,14
+Angel,Bank and Monument,591,180,183,221,256
+Angel,Bond Street,13,59,60,64,63
+Angel,Canary Wharf,96,131,75,106,74
+Angel,Euston,133,52,53,77,111
+Angel,Green Park,71,72,73,74,70
+Angel,Liverpool Street,19,148,150,190,234
+Angel,Oxford Circus,131,111,112,127,135
+Angel,Stratford,29,124,126,96,64
+Angel,Warren Street,16,53,53,70,90
+Angel,Waterloo,80,64,65,63,56
+Angel,Westminster,25,45,46,45,40
+Archway,Bank and Monument,336,237,240,241,234
+Archway,Bond Street,48,82,83,95,108
+Archway,Canary Wharf,51,179,103,150,116
+Archway,Euston,185,71,72,97,135
+Archway,Green Park,68,100,101,112,123
+Archway,Liverpool Street,40,193,196,200,198
+Archway,Oxford Circus,122,153,155,183,217
+Archway,Stratford,10,172,174,140,105
+Archway,Warren Street,239,72,73,94,123
+Archway,Waterloo,209,88,89,93,95
+Archway,Westminster,35,63,63,66,67
+Arnos Grove,Bank and Monument,87,130,132,132,131
+Arnos Grove,Bond Street,20,44,45,46,46
+Arnos Grove,Canary Wharf,37,100,58,91,79
+Arnos Grove,Euston,33,37,38,41,46
+Arnos Grove,Green Park,58,54,55,55,55
+Arnos Grove,Liverpool Street,47,106,108,109,109
+Arnos Grove,Oxford Circus,109,82,83,86,89
+Arnos Grove,Stratford,27,98,99,95,90
+Arnos Grove,Warren Street,53,38,39,42,45
+Arnos Grove,Waterloo,30,48,49,48,47
+Arnos Grove,Westminster,19,34,35,34,34
+Arsenal,Bank and Monument,73,94,95,96,91
+Arsenal,Bond Street,13,32,32,34,34
+Arsenal,Canary Wharf,12,70,40,57,41
+Arsenal,Euston,13,27,28,35,43
+Arsenal,Green Park,47,39,39,40,39
+Arsenal,Liverpool Street,45,76,78,80,78
+Arsenal,Oxford Circus,36,59,60,66,69
+Arsenal,Stratford,3,69,70,60,48
+Arsenal,Warren Street,18,28,28,34,39
+Arsenal,Waterloo,38,34,35,35,32
+Arsenal,Westminster,9,24,25,25,23
+Baker Street,Bank and Monument,88,302,306,284,233
+Baker Street,Bond Street,39,113,114,177,268
+Baker Street,Canary Wharf,687,226,129,162,96
+Baker Street,Euston,1,89,90,106,116
+Baker Street,Green Park,135,133,134,171,205
+Baker Street,Liverpool Street,580,246,249,231,190
+Baker Street,Oxford Circus,92,209,212,325,488
+Baker Street,Stratford,49,215,218,148,84
+Baker Street,Warren Street,2,92,94,117,137
+Baker Street,Waterloo,163,115,116,122,116
+Baker Street,Westminster,180,82,83,89,86
+Balham,Bank and Monument,1110,424,430,460,481
+Balham,Bond Street,45,142,144,148,149
+Balham,Canary Wharf,347,322,185,294,250
+Balham,Euston,110,117,119,115,108
+Balham,Green Park,205,175,178,193,206
+Balham,Liverpool Street,73,342,347,358,359
+Balham,Oxford Circus,394,263,267,277,280
+Balham,Stratford,88,305,310,258,201
+Balham,Warren Street,166,120,122,121,116
+Balham,Waterloo,204,159,161,183,207
+Balham,Westminster,25,112,113,124,133
+Bank and Monument,Bond Street,496,394,400,365,269
+Bank and Monument,Canary Wharf,2339,911,522,800,553
+Bank and Monument,Euston,508,329,333,307,228
+Bank and Monument,Green Park,97,484,491,459,348
+Bank and Monument,Liverpool Street,1138,1096,1111,2091,3655
+Bank and Monument,Oxford Circus,852,738,748,721,565
+Bank and Monument,Stratford,272,851,863,650,379
+Bank and Monument,Warren Street,65,338,343,321,243
+Bank and Monument,Waterloo,1561,455,461,547,550
+Bank and Monument,Westminster,183,315,320,336,293
+Barbican,Bank and Monument,26,56,57,88,121
+Barbican,Bond Street,4,17,17,15,11
+Barbican,Canary Wharf,7,39,22,32,21
+Barbican,Euston,1,15,15,17,16
+Barbican,Green Park,18,21,21,18,13
+Barbican,Liverpool Street,90,47,48,81,128
+Barbican,Oxford Circus,13,32,32,30,23
+Barbican,Stratford,23,37,38,29,17
+Barbican,Warren Street,0,15,15,16,14
+Barbican,Waterloo,5,19,20,20,17
+Barbican,Westminster,7,13,14,13,10
+Barking,Bank and Monument,75,327,332,351,365
+Barking,Bond Street,40,108,109,102,91
+Barking,Canary Wharf,36,263,151,314,371
+Barking,Euston,14,90,92,88,81
+Barking,Green Park,11,132,134,125,113
+Barking,Liverpool Street,197,267,271,293,314
+Barking,Oxford Circus,110,200,203,192,175
+Barking,Stratford,89,260,263,353,490
+Barking,Warren Street,5,92,94,88,81
+Barking,Waterloo,48,119,121,119,114
+Barking,Westminster,71,84,86,82,77
+Barkingside,Bank and Monument,76,61,62,64,64
+Barkingside,Bond Street,19,20,21,19,17
+Barkingside,Canary Wharf,48,49,28,53,57
+Barkingside,Euston,5,17,17,16,15
+Barkingside,Green Park,8,25,25,24,22
+Barkingside,Liverpool Street,111,50,51,53,55
+Barkingside,Oxford Circus,29,38,38,36,33
+Barkingside,Stratford,211,48,49,62,80
+Barkingside,Warren Street,3,17,18,17,15
+Barkingside,Waterloo,30,22,23,22,21
+Barkingside,Westminster,10,16,16,15,14
+Barons Court,Bank and Monument,106,168,170,154,123
+Barons Court,Bond Street,47,58,59,63,61
+Barons Court,Canary Wharf,127,128,73,100,66
+Barons Court,Euston,23,48,49,47,41
+Barons Court,Green Park,247,72,73,84,89
+Barons Court,Liverpool Street,100,136,138,120,92
+Barons Court,Oxford Circus,71,108,110,118,115
+Barons Court,Stratford,17,121,123,88,54
+Barons Court,Warren Street,40,49,50,50,45
+Barons Court,Waterloo,23,64,64,66,61
+Barons Court,Westminster,32,46,46,49,48
+Bayswater,Bank and Monument,27,69,70,63,51
+Bayswater,Bond Street,1,25,25,31,37
+Bayswater,Canary Wharf,5,52,30,39,25
+Bayswater,Euston,0,20,20,21,20
+Bayswater,Green Park,6,30,30,33,35
+Bayswater,Liverpool Street,8,56,57,49,38
+Bayswater,Oxford Circus,8,46,46,54,60
+Bayswater,Stratford,0,50,50,35,21
+Bayswater,Warren Street,0,21,21,22,22
+Bayswater,Waterloo,6,26,26,25,23
+Bayswater,Westminster,112,19,19,19,18
+Beckton,Bank and Monument,83,268,291,231,187
+Beckton,Canary Wharf,24,218,134,223,221
+Beckton,Stratford,0,209,227,209,201
+Beckton Park,Bank and Monument,25,73,80,59,41
+Beckton Park,Canary Wharf,3,60,37,60,55
+Beckton Park,Stratford,0,57,62,56,49
+Becontree,Bank and Monument,43,102,103,106,107
+Becontree,Bond Street,19,34,34,32,28
+Becontree,Canary Wharf,52,81,47,92,103
+Becontree,Euston,5,28,29,27,25
+Becontree,Green Park,12,41,42,39,35
+Becontree,Liverpool Street,40,83,84,88,91
+Becontree,Oxford Circus,18,62,63,59,54
+Becontree,Stratford,68,80,81,100,125
+Becontree,Warren Street,2,29,29,27,25
+Becontree,Waterloo,24,37,38,37,34
+Becontree,Westminster,18,26,27,25,23
+Belsize Park,Bank and Monument,276,121,123,121,115
+Belsize Park,Bond Street,7,42,43,49,55
+Belsize Park,Canary Wharf,17,92,53,74,54
+Belsize Park,Euston,81,37,37,53,77
+Belsize Park,Green Park,42,51,52,58,63
+Belsize Park,Liverpool Street,30,99,100,101,98
+Belsize Park,Oxford Circus,54,79,80,96,114
+Belsize Park,Stratford,2,88,89,69,49
+Belsize Park,Warren Street,98,37,38,50,68
+Belsize Park,Waterloo,72,45,46,47,47
+Belsize Park,Westminster,7,32,33,34,34
+Bermondsey,Bank and Monument,51,226,230,311,412
+Bermondsey,Bond Street,251,71,72,68,59
+Bermondsey,Canary Wharf,937,176,101,223,269
+Bermondsey,Euston,39,59,60,55,45
+Bermondsey,Green Park,188,88,89,89,83
+Bermondsey,Liverpool Street,4,180,183,223,261
+Bermondsey,Oxford Circus,48,133,135,132,118
+Bermondsey,Stratford,224,157,159,137,106
+Bermondsey,Warren Street,44,61,62,58,49
+Bermondsey,Waterloo,326,82,83,101,118
+Bermondsey,Westminster,147,57,58,65,69
+Bethnal Green,Bank and Monument,335,291,294,396,532
+Bethnal Green,Bond Street,213,91,92,85,73
+Bethnal Green,Canary Wharf,55,212,121,195,165
+Bethnal Green,Euston,26,77,78,77,72
+Bethnal Green,Green Park,55,112,113,106,92
+Bethnal Green,Liverpool Street,293,242,246,374,584
+Bethnal Green,Oxford Circus,382,170,172,164,145
+Bethnal Green,Stratford,507,213,216,246,272
+Bethnal Green,Warren Street,13,78,79,76,68
+Bethnal Green,Waterloo,306,103,104,110,110
+Bethnal Green,Westminster,35,72,73,73,68
+Blackfriars,Bank and Monument,841,298,,,
+Blackfriars,Bond Street,24,91,,,
+Blackfriars,Canary Wharf,28,204,,,
+Blackfriars,Euston,17,75,,,
+Blackfriars,Green Park,34,113,,,
+Blackfriars,Liverpool Street,110,232,,,
+Blackfriars,Oxford Circus,34,171,,,
+Blackfriars,Stratford,32,192,,,
+Blackfriars,Warren Street,7,78,,,
+Blackfriars,Waterloo,22,105,,,
+Blackfriars,Westminster,515,74,,,
+Blackhorse Road,Bank and Monument,62,347,352,353,339
+Blackhorse Road,Bond Street,29,117,119,117,111
+Blackhorse Road,Canary Wharf,53,266,153,236,191
+Blackhorse Road,Euston,213,99,100,107,111
+Blackhorse Road,Green Park,162,142,144,141,131
+Blackhorse Road,Liverpool Street,23,284,288,297,295
+Blackhorse Road,Oxford Circus,404,217,220,222,214
+Blackhorse Road,Stratford,0,260,264,252,228
+Blackhorse Road,Warren Street,288,101,102,107,109
+Blackhorse Road,Waterloo,71,127,129,124,113
+Blackhorse Road,Westminster,41,90,92,88,80
+Blackwall,Bank and Monument,537,217,238,161,100
+Blackwall,Canary Wharf,4,194,120,269,354
+Blackwall,Stratford,9,167,183,134,91
+Bond Street,Bank and Monument,166,84,85,80,63
+Bond Street,Canary Wharf,286,62,35,43,23
+Bond Street,Euston,5,25,25,33,37
+Bond Street,Green Park,23,39,39,67,107
+Bond Street,Liverpool Street,136,67,68,60,44
+Bond Street,Oxford Circus,5,62,63,146,337
+Bond Street,Stratford,48,59,59,37,18
+Bond Street,Warren Street,2,26,27,38,51
+Bond Street,Waterloo,79,32,32,36,35
+Bond Street,Westminster,48,23,23,28,31
+Borough,Bank and Monument,74,63,64,103,157
+Borough,Bond Street,3,19,19,18,14
+Borough,Canary Wharf,23,44,25,39,28
+Borough,Euston,68,16,16,14,10
+Borough,Green Park,10,24,24,24,20
+Borough,Liverpool Street,19,49,50,66,80
+Borough,Oxford Circus,33,36,36,34,28
+Borough,Stratford,23,41,42,31,19
+Borough,Warren Street,12,16,16,15,11
+Borough,Waterloo,22,22,23,30,36
+Borough,Westminster,2,15,16,18,19
+Boston Manor,Bank and Monument,18,53,53,50,45
+Boston Manor,Bond Street,6,18,18,18,18
+Boston Manor,Canary Wharf,18,41,23,35,28
+Boston Manor,Euston,5,15,15,15,14
+Boston Manor,Green Park,25,22,23,23,24
+Boston Manor,Liverpool Street,10,43,43,40,35
+Boston Manor,Oxford Circus,9,33,34,34,34
+Boston Manor,Stratford,3,39,39,32,24
+Boston Manor,Warren Street,10,15,16,15,15
+Boston Manor,Waterloo,4,20,20,20,19
+Boston Manor,Westminster,9,14,14,14,14
+Bounds Green,Bank and Monument,98,188,190,191,188
+Bounds Green,Bond Street,30,64,65,66,67
+Bounds Green,Canary Wharf,46,144,83,130,111
+Bounds Green,Euston,53,54,55,61,67
+Bounds Green,Green Park,88,78,79,79,79
+Bounds Green,Liverpool Street,66,153,155,157,157
+Bounds Green,Oxford Circus,167,118,120,125,129
+Bounds Green,Stratford,29,141,143,137,128
+Bounds Green,Warren Street,93,55,56,61,66
+Bounds Green,Waterloo,49,69,70,70,68
+Bounds Green,Westminster,28,49,50,50,48
+Bow Church,Bank and Monument,3,380,415,289,194
+Bow Church,Canary Wharf,289,321,198,351,362
+Bow Church,Stratford,361,320,349,420,541
+Bow Road,Bank and Monument,193,175,178,207,231
+Bow Road,Bond Street,65,56,57,51,41
+Bow Road,Canary Wharf,0,136,78,145,145
+Bow Road,Euston,11,47,48,45,39
+Bow Road,Green Park,15,69,70,63,52
+Bow Road,Liverpool Street,181,144,146,181,217
+Bow Road,Oxford Circus,96,105,106,97,81
+Bow Road,Stratford,31,138,140,196,274
+Bow Road,Warren Street,4,48,49,45,38
+Bow Road,Waterloo,36,63,64,63,58
+Bow Road,Westminster,70,44,45,43,37
+Brent Cross,Bank and Monument,98,70,71,69,66
+Brent Cross,Bond Street,10,24,24,26,27
+Brent Cross,Canary Wharf,25,53,31,46,37
+Brent Cross,Euston,36,20,21,24,29
+Brent Cross,Green Park,23,29,30,31,32
+Brent Cross,Liverpool Street,19,57,58,57,55
+Brent Cross,Oxford Circus,38,44,45,49,54
+Brent Cross,Stratford,8,51,52,43,34
+Brent Cross,Warren Street,32,21,21,24,28
+Brent Cross,Waterloo,43,26,26,26,26
+Brent Cross,Westminster,5,18,19,19,19
+Brentwood,Liverpool Street,532,952,952,844,686
+Brentwood,Stratford,850,904,904,892,824
+Brixton,Bank and Monument,666,980,993,1112,1237
+Brixton,Bond Street,201,327,332,354,372
+Brixton,Canary Wharf,399,739,423,672,573
+Brixton,Euston,590,269,272,269,258
+Brixton,Green Park,1159,405,411,470,535
+Brixton,Liverpool Street,215,789,800,854,896
+Brixton,Oxford Circus,2411,607,616,663,702
+Brixton,Stratford,160,697,707,580,445
+Brixton,Warren Street,1057,277,281,284,281
+Brixton,Waterloo,130,369,374,457,565
+Brixton,Westminster,104,259,262,302,348
+Bromley-by-Bow,Bank and Monument,109,111,113,126,136
+Bromley-by-Bow,Bond Street,37,36,36,32,26
+Bromley-by-Bow,Canary Wharf,8,88,51,105,118
+Bromley-by-Bow,Euston,5,30,31,28,24
+Bromley-by-Bow,Green Park,14,44,44,40,33
+Bromley-by-Bow,Liverpool Street,153,91,92,109,124
+Bromley-by-Bow,Oxford Circus,53,67,68,61,51
+Bromley-by-Bow,Stratford,30,90,91,142,227
+Bromley-by-Bow,Warren Street,4,31,31,28,24
+Bromley-by-Bow,Waterloo,24,40,41,40,36
+Bromley-by-Bow,Westminster,32,28,29,27,23
+Brondesbury,Stratford,41,352,352,267,155
+Brondesbury Park,Stratford,18,111,111,86,54
+Bruce Grove,Liverpool Street,312,303,303,267,190
+Bruce Grove,Stratford,0,277,277,225,145
+Buckhurst Hill,Bank and Monument,146,77,78,80,81
+Buckhurst Hill,Bond Street,36,25,26,24,22
+Buckhurst Hill,Canary Wharf,58,61,35,67,72
+Buckhurst Hill,Euston,4,21,22,21,19
+Buckhurst Hill,Green Park,12,31,32,30,27
+Buckhurst Hill,Liverpool Street,197,63,64,67,69
+Buckhurst Hill,Oxford Circus,54,47,48,45,41
+Buckhurst Hill,Stratford,261,61,62,79,104
+Buckhurst Hill,Warren Street,6,22,22,21,19
+Buckhurst Hill,Waterloo,15,28,29,28,26
+Buckhurst Hill,Westminster,12,20,20,19,18
+Burnt Oak,Bank and Monument,168,139,141,139,134
+Burnt Oak,Bond Street,15,47,48,50,52
+Burnt Oak,Canary Wharf,19,107,61,96,81
+Burnt Oak,Euston,58,40,41,45,51
+Burnt Oak,Green Park,27,58,59,61,62
+Burnt Oak,Liverpool Street,24,113,115,114,111
+Burnt Oak,Oxford Circus,39,88,89,95,100
+Burnt Oak,Stratford,14,102,104,90,75
+Burnt Oak,Warren Street,73,41,41,46,50
+Burnt Oak,Waterloo,72,51,52,52,52
+Burnt Oak,Westminster,12,37,37,37,37
+Bush Hill Park,Liverpool Street,461,361,361,349,304
+Bush Hill Park,Stratford,0,332,332,303,246
+Bushey,Euston,3,20,20,19,15
+Bushey,Stratford,1,51,51,43,29
+Caledonian Road,Bank and Monument,96,120,122,127,125
+Caledonian Road,Bond Street,20,41,42,45,48
+Caledonian Road,Canary Wharf,22,90,51,72,51
+Caledonian Road,Euston,18,36,36,50,71
+Caledonian Road,Green Park,64,50,50,53,54
+Caledonian Road,Liverpool Street,72,98,100,106,108
+Caledonian Road,Oxford Circus,48,77,78,89,99
+Caledonian Road,Stratford,10,86,87,68,48
+Caledonian Road,Warren Street,17,36,37,47,61
+Caledonian Road,Waterloo,50,44,45,46,44
+Caledonian Road,Westminster,15,31,32,32,31
+Caledonian Road & Barnsbury,Stratford,127,90,90,76,49
+Cambridge Heath,Liverpool Street,118,93,93,111,121
+Cambridge Heath,Stratford,0,83,83,78,65
+Camden Road,Stratford,212,183,183,167,133
+Camden Town,Bank and Monument,287,137,139,138,125
+Camden Town,Bond Street,13,48,49,60,70
+Camden Town,Canary Wharf,47,103,59,79,52
+Camden Town,Euston,46,44,44,81,155
+Camden Town,Green Park,47,58,59,69,76
+Camden Town,Liverpool Street,33,112,114,115,108
+Camden Town,Oxford Circus,41,91,92,121,154
+Camden Town,Stratford,10,98,99,73,47
+Camden Town,Warren Street,28,43,44,70,114
+Camden Town,Waterloo,126,51,52,55,53
+Camden Town,Westminster,17,36,37,39,38
+Canada Water,Bank and Monument,117,1109,1125,1418,1738
+Canada Water,Bond Street,958,353,358,336,289
+Canada Water,Canary Wharf,4030,904,519,1379,2086
+Canada Water,Euston,99,292,297,270,224
+Canada Water,Green Park,716,436,442,437,400
+Canada Water,Liverpool Street,0,888,901,1052,1175
+Canada Water,Oxford Circus,161,658,667,645,576
+Canada Water,Stratford,1215,794,805,767,672
+Canada Water,Warren Street,115,301,305,285,243
+Canada Water,Waterloo,1086,404,410,475,528
+Canada Water,Westminster,786,283,287,311,318
+Canary Wharf,Bank and Monument,2643,517,,,
+Canary Wharf,Bond Street,541,166,,,
+Canary Wharf,Canary Wharf,0,2128,,,
+Canary Wharf,Euston,58,138,,,
+Canary Wharf,Green Park,721,203,,,
+Canary Wharf,Liverpool Street,6,416,,,
+Canary Wharf,Oxford Circus,73,308,,,
+Canary Wharf,Stratford,657,391,,,
+Canary Wharf,Warren Street,81,142,,,
+Canary Wharf,Waterloo,733,186,,,
+Canary Wharf,Westminster,429,131,,,
+Canning Town,Bank and Monument,421,841,854,922,922
+Canning Town,Bond Street,685,273,277,243,190
+Canning Town,Canary Wharf,1258,717,411,1171,1889
+Canning Town,Euston,59,227,231,203,159
+Canning Town,Green Park,645,334,339,300,237
+Canning Town,Liverpool Street,75,679,690,716,685
+Canning Town,Oxford Circus,137,507,515,461,369
+Canning Town,Stratford,1727,679,689,1036,1539
+Canning Town,Warren Street,93,233,237,210,166
+Canning Town,Waterloo,979,304,308,294,254
+Canning Town,Westminster,482,214,217,201,166
+Cannon Street,Bank and Monument,53,195,,,
+Cannon Street,Bond Street,7,53,,,
+Cannon Street,Canary Wharf,0,121,,,
+Cannon Street,Euston,1,44,,,
+Cannon Street,Green Park,24,65,,,
+Cannon Street,Liverpool Street,74,143,,,
+Cannon Street,Oxford Circus,18,98,,,
+Cannon Street,Stratford,13,113,,,
+Cannon Street,Warren Street,25,45,,,
+Cannon Street,Waterloo,4,60,,,
+Cannon Street,Westminster,115,42,,,
+Canonbury,Stratford,290,390,390,361,267
+Canons Park,Bank and Monument,39,103,105,101,94
+Canons Park,Bond Street,111,35,36,38,39
+Canons Park,Canary Wharf,163,80,46,71,60
+Canons Park,Euston,0,29,30,30,30
+Canons Park,Green Park,52,43,44,45,45
+Canons Park,Liverpool Street,68,84,85,82,77
+Canons Park,Oxford Circus,26,66,67,70,72
+Canons Park,Stratford,26,77,78,69,59
+Canons Park,Warren Street,0,30,31,31,31
+Canons Park,Waterloo,53,38,39,39,37
+Canons Park,Westminster,55,27,28,27,27
+Carpenders Park,Euston,97,110,110,106,92
+Carpenders Park,Stratford,2,287,287,237,172
+Chadwell Heath,Liverpool Street,1233,1690,1690,1403,1031
+Chadwell Heath,Stratford,2112,1640,1640,1690,1609
+Chalfont & Latimer,Bank and Monument,7,50,51,49,46
+Chalfont & Latimer,Bond Street,14,17,17,17,17
+Chalfont & Latimer,Canary Wharf,38,39,23,36,32
+Chalfont & Latimer,Green Park,12,21,21,21,21
+Chalfont & Latimer,Liverpool Street,48,41,42,40,38
+Chalfont & Latimer,Oxford Circus,17,32,32,32,32
+Chalfont & Latimer,Stratford,6,38,38,35,31
+Chalfont & Latimer,Warren Street,0,15,15,15,14
+Chalfont & Latimer,Waterloo,9,19,19,18,18
+Chalfont & Latimer,Westminster,16,13,13,13,13
+Chalk Farm,Bank and Monument,194,105,106,104,96
+Chalk Farm,Bond Street,11,37,37,43,49
+Chalk Farm,Canary Wharf,26,79,45,62,43
+Chalk Farm,Euston,65,32,33,50,80
+Chalk Farm,Green Park,37,44,45,50,55
+Chalk Farm,Liverpool Street,26,85,87,87,82
+Chalk Farm,Oxford Circus,47,68,69,86,104
+Chalk Farm,Stratford,4,75,76,57,39
+Chalk Farm,Warren Street,66,32,33,47,67
+Chalk Farm,Waterloo,88,39,40,41,40
+Chalk Farm,Westminster,10,28,28,29,28
+Chancery Lane,Bank and Monument,174,51,52,71,90
+Chancery Lane,Bond Street,68,17,17,20,21
+Chancery Lane,Canary Wharf,2,36,21,29,19
+Chancery Lane,Euston,5,14,14,16,16
+Chancery Lane,Green Park,13,21,21,25,27
+Chancery Lane,Liverpool Street,107,41,41,48,51
+Chancery Lane,Oxford Circus,88,32,32,41,49
+Chancery Lane,Stratford,62,34,35,24,14
+Chancery Lane,Warren Street,3,14,15,18,20
+Chancery Lane,Waterloo,7,18,19,21,21
+Chancery Lane,Westminster,5,13,13,15,15
+Charing Cross,Bank and Monument,17,272,275,290,259
+Charing Cross,Bond Street,29,95,96,120,131
+Charing Cross,Canary Wharf,45,197,113,138,75
+Charing Cross,Euston,263,77,78,87,82
+Charing Cross,Green Park,21,120,122,182,247
+Charing Cross,Liverpool Street,31,217,220,210,166
+Charing Cross,Oxford Circus,788,180,183,259,329
+Charing Cross,Stratford,36,186,188,119,57
+Charing Cross,Warren Street,569,81,82,99,105
+Charing Cross,Waterloo,93,110,111,180,270
+Charing Cross,Westminster,3,78,79,129,194
+Chesham,Bank and Monument,2,47,48,46,45
+Chesham,Bond Street,14,16,16,16,17
+Chesham,Canary Wharf,19,37,21,35,32
+Chesham,Green Park,18,20,20,20,20
+Chesham,Liverpool Street,29,39,39,38,37
+Chesham,Oxford Circus,12,30,30,30,31
+Chesham,Stratford,3,36,36,33,31
+Chesham,Warren Street,0,14,14,14,14
+Chesham,Waterloo,11,18,18,17,17
+Chesham,Westminster,27,12,13,12,12
+Cheshunt,Liverpool Street,25,62,62,59,54
+Chigwell,Bank and Monument,55,27,27,27,27
+Chigwell,Bond Street,16,9,9,8,7
+Chigwell,Canary Wharf,25,21,12,23,24
+Chigwell,Euston,1,7,8,7,7
+Chigwell,Green Park,3,11,11,10,9
+Chigwell,Liverpool Street,68,22,22,23,23
+Chigwell,Oxford Circus,13,17,17,16,14
+Chigwell,Stratford,40,21,22,26,33
+Chigwell,Warren Street,1,8,8,7,7
+Chigwell,Waterloo,6,10,10,10,9
+Chigwell,Westminster,4,7,7,7,6
+Chingford,Liverpool Street,1119,436,436,447,447
+Chingford,Stratford,0,401,401,389,365
+Chiswick Park,Bank and Monument,49,57,58,53,45
+Chiswick Park,Bond Street,8,20,20,20,20
+Chiswick Park,Canary Wharf,24,44,25,36,26
+Chiswick Park,Euston,6,16,16,16,14
+Chiswick Park,Green Park,27,24,25,26,27
+Chiswick Park,Liverpool Street,11,46,47,42,34
+Chiswick Park,Oxford Circus,25,36,37,38,37
+Chiswick Park,Stratford,1,42,42,32,22
+Chiswick Park,Warren Street,7,17,17,17,15
+Chiswick Park,Waterloo,5,21,22,22,20
+Chiswick Park,Westminster,14,15,16,16,15
+Chorleywood,Bank and Monument,7,50,51,48,46
+Chorleywood,Bond Street,16,17,17,17,17
+Chorleywood,Canary Wharf,35,39,22,36,31
+Chorleywood,Green Park,22,21,21,21,20
+Chorleywood,Liverpool Street,36,40,41,39,37
+Chorleywood,Oxford Circus,16,31,32,32,32
+Chorleywood,Stratford,3,37,38,34,31
+Chorleywood,Warren Street,0,14,15,14,14
+Chorleywood,Waterloo,10,18,19,18,18
+Chorleywood,Westminster,17,13,13,13,13
+Clapham Common,Bank and Monument,709,212,215,236,254
+Clapham Common,Bond Street,19,71,72,75,76
+Clapham Common,Canary Wharf,178,160,92,143,118
+Clapham Common,Euston,49,58,59,57,53
+Clapham Common,Green Park,114,88,89,100,110
+Clapham Common,Liverpool Street,57,171,173,181,184
+Clapham Common,Oxford Circus,157,131,133,141,144
+Clapham Common,Stratford,43,151,153,123,91
+Clapham Common,Warren Street,61,60,61,60,58
+Clapham Common,Waterloo,133,80,81,97,116
+Clapham Common,Westminster,8,56,57,64,71
+Clapham Junction,Stratford,16,1159,1159,972,728
+Clapham North,Bank and Monument,333,125,126,139,148
+Clapham North,Bond Street,12,42,42,44,44
+Clapham North,Canary Wharf,66,94,54,82,66
+Clapham North,Euston,24,34,35,33,30
+Clapham North,Green Park,43,52,52,59,64
+Clapham North,Liverpool Street,23,100,102,106,106
+Clapham North,Oxford Circus,71,77,78,82,83
+Clapham North,Stratford,17,88,90,71,51
+Clapham North,Warren Street,36,35,36,35,33
+Clapham North,Waterloo,117,47,48,58,69
+Clapham North,Westminster,6,33,33,38,42
+Clapham South,Bank and Monument,896,287,292,315,332
+Clapham South,Bond Street,41,96,98,101,102
+Clapham South,Canary Wharf,274,218,125,196,164
+Clapham South,Euston,84,79,80,78,72
+Clapham South,Green Park,229,119,121,132,142
+Clapham South,Liverpool Street,62,232,235,244,245
+Clapham South,Oxford Circus,315,178,181,189,191
+Clapham South,Stratford,39,206,209,171,130
+Clapham South,Warren Street,123,81,83,82,78
+Clapham South,Waterloo,186,108,109,127,146
+Clapham South,Westminster,31,76,77,85,92
+Clapton,Liverpool Street,987,304,304,349,387
+Clapton,Stratford,0,276,276,278,265
+Cockfosters,Bank and Monument,25,46,47,47,46
+Cockfosters,Bond Street,9,16,16,16,16
+Cockfosters,Canary Wharf,13,36,21,33,30
+Cockfosters,Euston,10,13,13,14,15
+Cockfosters,Green Park,24,19,19,19,19
+Cockfosters,Liverpool Street,18,38,38,38,38
+Cockfosters,Oxford Circus,46,29,30,30,31
+Cockfosters,Stratford,7,35,35,34,33
+Cockfosters,Warren Street,21,13,14,14,15
+Cockfosters,Waterloo,7,17,17,17,17
+Cockfosters,Westminster,9,12,12,12,12
+Colindale,Bank and Monument,383,236,239,238,234
+Colindale,Bond Street,41,81,82,87,92
+Colindale,Canary Wharf,64,181,104,163,139
+Colindale,Euston,136,68,69,79,92
+Colindale,Green Park,75,98,100,104,109
+Colindale,Liverpool Street,51,192,195,196,194
+Colindale,Oxford Circus,103,150,152,164,178
+Colindale,Stratford,37,174,176,153,128
+Colindale,Warren Street,131,70,71,79,90
+Colindale,Waterloo,157,88,89,90,91
+Colindale,Westminster,25,62,63,64,65
+Colliers Wood,Bank and Monument,427,241,245,255,258
+Colliers Wood,Bond Street,31,81,82,83,82
+Colliers Wood,Canary Wharf,121,185,106,171,147
+Colliers Wood,Euston,64,67,68,66,61
+Colliers Wood,Green Park,112,100,101,107,109
+Colliers Wood,Liverpool Street,46,195,198,201,197
+Colliers Wood,Oxford Circus,214,150,152,155,153
+Colliers Wood,Stratford,36,175,178,153,122
+Colliers Wood,Warren Street,92,69,70,69,65
+Colliers Wood,Waterloo,127,90,91,100,107
+Colliers Wood,Westminster,18,63,64,68,70
+Covent Garden,Bank and Monument,7,18,18,19,18
+Covent Garden,Bond Street,3,6,6,8,8
+Covent Garden,Canary Wharf,7,13,7,9,5
+Covent Garden,Euston,2,5,5,6,6
+Covent Garden,Green Park,23,8,8,11,15
+Covent Garden,Liverpool Street,11,14,14,14,11
+Covent Garden,Oxford Circus,5,12,12,16,20
+Covent Garden,Stratford,7,12,12,8,4
+Covent Garden,Warren Street,0,5,5,7,7
+Covent Garden,Waterloo,4,7,7,9,11
+Covent Garden,Westminster,4,5,5,6,8
+Crossharbour,Bank and Monument,730,382,418,289,178
+Crossharbour,Canary Wharf,108,340,210,476,614
+Crossharbour,Stratford,61,289,316,217,133
+Crouch Hill,Stratford,4,96,96,81,59
+Croxley,Bank and Monument,5,53,54,51,48
+Croxley,Bond Street,17,18,18,18,18
+Croxley,Canary Wharf,46,41,24,37,32
+Croxley,Green Park,20,22,22,22,22
+Croxley,Liverpool Street,39,43,44,42,39
+Croxley,Oxford Circus,15,33,34,34,34
+Croxley,Stratford,5,40,40,36,32
+Croxley,Warren Street,0,15,16,15,15
+Croxley,Waterloo,19,20,20,19,19
+Croxley,Westminster,20,14,14,14,13
+Custom House,Bank and Monument,62,174,189,134,89
+Custom House,Canary Wharf,17,145,89,150,142
+Custom House,Stratford,1,138,151,137,122
+Cutty Sark,Bank and Monument,508,475,518,392,283
+Cutty Sark,Canary Wharf,377,404,249,495,574
+Cutty Sark,Stratford,61,359,391,295,212
+Cyprus,Bank and Monument,36,116,127,97,73
+Cyprus,Canary Wharf,8,95,59,98,94
+Cyprus,Stratford,0,91,99,90,85
+Dagenham East,Bank and Monument,34,87,88,90,91
+Dagenham East,Bond Street,13,29,29,27,25
+Dagenham East,Canary Wharf,40,69,40,77,85
+Dagenham East,Euston,4,24,24,23,22
+Dagenham East,Green Park,8,35,36,34,31
+Dagenham East,Liverpool Street,38,71,72,75,77
+Dagenham East,Oxford Circus,25,53,54,51,47
+Dagenham East,Stratford,49,68,69,82,99
+Dagenham East,Warren Street,1,25,25,24,22
+Dagenham East,Waterloo,13,32,32,31,30
+Dagenham East,Westminster,19,22,23,22,20
+Dagenham Heathway,Bank and Monument,57,144,146,151,153
+Dagenham Heathway,Bond Street,24,48,48,45,41
+Dagenham Heathway,Canary Wharf,73,115,66,130,145
+Dagenham Heathway,Euston,2,40,40,39,36
+Dagenham Heathway,Green Park,18,58,59,56,51
+Dagenham Heathway,Liverpool Street,41,117,119,125,130
+Dagenham Heathway,Oxford Circus,31,88,90,85,78
+Dagenham Heathway,Stratford,117,112,114,139,172
+Dagenham Heathway,Warren Street,4,41,41,39,36
+Dagenham Heathway,Waterloo,41,53,53,52,50
+Dagenham Heathway,Westminster,21,37,38,36,34
+Dalston Junction,Stratford,3,709,709,645,506
+Dalston Kingsland,Stratford,613,481,481,534,534
+Debden,Bank and Monument,119,77,78,80,82
+Debden,Bond Street,36,26,26,24,23
+Debden,Canary Wharf,56,61,35,66,71
+Debden,Euston,4,21,22,21,20
+Debden,Green Park,9,31,32,30,28
+Debden,Liverpool Street,175,63,64,66,69
+Debden,Oxford Circus,50,48,48,46,43
+Debden,Stratford,237,60,61,74,94
+Debden,Warren Street,4,22,22,21,20
+Debden,Waterloo,31,28,29,28,27
+Debden,Westminster,13,20,20,20,19
+Deptford Bridge,Bank and Monument,423,578,631,483,354
+Deptford Bridge,Canary Wharf,310,484,299,553,589
+Deptford Bridge,Stratford,86,437,477,364,265
+Devons Road,Bank and Monument,59,308,336,237,162
+Devons Road,Canary Wharf,127,263,162,307,345
+Devons Road,Stratford,627,252,275,290,321
+Dollis Hill,Bank and Monument,33,109,111,105,96
+Dollis Hill,Bond Street,83,38,39,43,47
+Dollis Hill,Canary Wharf,66,84,48,70,54
+Dollis Hill,Euston,3,31,32,33,33
+Dollis Hill,Green Park,58,46,47,49,52
+Dollis Hill,Liverpool Street,48,89,90,86,78
+Dollis Hill,Oxford Circus,26,70,71,79,87
+Dollis Hill,Stratford,25,81,82,69,54
+Dollis Hill,Warren Street,3,32,33,34,36
+Dollis Hill,Waterloo,66,41,41,41,40
+Dollis Hill,Westminster,48,29,29,30,29
+Ealing Broadway,Bank and Monument,792,526,534,497,443
+Ealing Broadway,Bond Street,302,182,185,196,205
+Ealing Broadway,Canary Wharf,218,405,232,343,268
+Ealing Broadway,Euston,48,150,152,151,145
+Ealing Broadway,Green Park,60,221,225,232,235
+Ealing Broadway,Liverpool Street,689,426,432,395,344
+Ealing Broadway,Oxford Circus,453,336,341,356,363
+Ealing Broadway,Stratford,170,387,392,314,235
+Ealing Broadway,Warren Street,38,154,156,157,154
+Ealing Broadway,Waterloo,56,197,199,196,186
+Ealing Broadway,Westminster,126,140,142,143,139
+Ealing Common,Bank and Monument,27,86,87,79,67
+Ealing Common,Bond Street,10,29,30,30,28
+Ealing Common,Canary Wharf,33,66,38,55,41
+Ealing Common,Euston,7,24,25,24,21
+Ealing Common,Green Park,40,36,37,38,38
+Ealing Common,Liverpool Street,21,70,71,63,52
+Ealing Common,Oxford Circus,17,55,55,56,53
+Ealing Common,Stratford,3,63,64,50,35
+Ealing Common,Warren Street,6,25,25,25,22
+Ealing Common,Waterloo,6,32,33,32,29
+Ealing Common,Westminster,16,23,23,23,22
+Earl's Court,Bank and Monument,305,338,343,308,243
+Earl's Court,Bond Street,71,119,120,131,131
+Earl's Court,Canary Wharf,300,257,147,194,123
+Earl's Court,Euston,70,97,98,97,85
+Earl's Court,Green Park,396,148,150,180,202
+Earl's Court,Liverpool Street,157,273,277,239,180
+Earl's Court,Oxford Circus,148,220,223,246,248
+Earl's Court,Stratford,41,243,246,171,99
+Earl's Court,Warren Street,65,100,101,103,94
+Earl's Court,Waterloo,38,129,131,135,127
+Earl's Court,Westminster,168,93,94,103,104
+East Acton,Bank and Monument,106,102,103,96,85
+East Acton,Bond Street,81,36,36,41,45
+East Acton,Canary Wharf,29,78,45,64,48
+East Acton,Euston,14,29,30,30,30
+East Acton,Green Park,19,43,44,47,49
+East Acton,Liverpool Street,105,82,84,76,65
+East Acton,Oxford Circus,110,66,67,73,79
+East Acton,Stratford,21,74,75,58,41
+East Acton,Warren Street,19,30,30,32,32
+East Acton,Waterloo,24,38,39,38,36
+East Acton,Westminster,28,27,28,28,27
+East Finchley,Bank and Monument,392,249,252,252,249
+East Finchley,Bond Street,51,85,87,95,104
+East Finchley,Canary Wharf,71,190,109,166,137
+East Finchley,Euston,182,73,74,90,112
+East Finchley,Green Park,84,104,105,113,122
+East Finchley,Liverpool Street,58,203,206,208,209
+East Finchley,Oxford Circus,131,159,161,181,205
+East Finchley,Stratford,30,182,185,156,126
+East Finchley,Warren Street,216,74,75,89,107
+East Finchley,Waterloo,199,93,94,96,98
+East Finchley,Westminster,36,66,67,69,70
+East Ham,Bank and Monument,160,331,336,356,366
+East Ham,Bond Street,82,108,110,101,87
+East Ham,Canary Wharf,402,267,153,329,397
+East Ham,Euston,14,91,92,87,78
+East Ham,Green Park,53,133,135,124,108
+East Ham,Liverpool Street,294,271,275,300,318
+East Ham,Oxford Circus,110,201,204,190,166
+East Ham,Stratford,269,266,270,394,591
+East Ham,Warren Street,8,93,94,88,77
+East Ham,Waterloo,162,120,122,119,110
+East Ham,Westminster,71,85,86,82,74
+East India,Bank and Monument,694,386,421,287,183
+East India,Canary Wharf,38,338,209,434,531
+East India,Stratford,6,300,327,255,192
+East Putney,Bank and Monument,173,229,232,218,193
+East Putney,Bond Street,69,79,80,85,87
+East Putney,Canary Wharf,87,176,101,146,111
+East Putney,Euston,30,65,66,66,63
+East Putney,Green Park,102,98,99,110,121
+East Putney,Liverpool Street,49,185,188,172,148
+East Putney,Oxford Circus,81,147,149,158,164
+East Putney,Stratford,22,167,169,131,93
+East Putney,Warren Street,39,67,68,69,67
+East Putney,Waterloo,1,86,87,90,89
+East Putney,Westminster,71,62,62,66,69
+Eastcote,Bank and Monument,14,117,118,111,100
+Eastcote,Bond Street,30,40,41,41,40
+Eastcote,Canary Wharf,81,90,52,79,65
+Eastcote,Green Park,32,49,49,49,47
+Eastcote,Liverpool Street,76,95,96,90,81
+Eastcote,Oxford Circus,26,74,75,76,75
+Eastcote,Stratford,11,87,88,77,64
+Eastcote,Warren Street,0,34,34,34,33
+Eastcote,Waterloo,24,43,44,42,39
+Eastcote,Westminster,53,31,31,30,28
+Edgware,Bank and Monument,231,153,155,154,151
+Edgware,Bond Street,15,52,53,55,58
+Edgware,Canary Wharf,26,118,68,107,93
+Edgware,Euston,84,44,45,50,56
+Edgware,Green Park,30,64,65,67,69
+Edgware,Liverpool Street,31,125,127,126,125
+Edgware,Oxford Circus,60,97,99,105,112
+Edgware,Stratford,21,113,115,101,87
+Edgware,Warren Street,83,45,46,50,55
+Edgware,Waterloo,70,57,58,58,58
+Edgware,Westminster,12,40,41,41,41
+Edgware Road,Bank and Monument,46,115,116,107,86
+Edgware Road,Bond Street,5,42,42,57,73
+Edgware Road,Canary Wharf,75,86,49,63,38
+Edgware Road,Euston,2,34,34,38,39
+Edgware Road,Green Park,12,50,50,59,65
+Edgware Road,Liverpool Street,156,93,95,87,70
+Edgware Road,Oxford Circus,68,77,78,105,134
+Edgware Road,Stratford,18,82,83,58,34
+Edgware Road,Warren Street,2,35,35,41,44
+Edgware Road,Waterloo,63,43,44,45,41
+Edgware Road,Westminster,29,31,31,32,30
+Edmonton Green,Liverpool Street,404,465,465,451,392
+Edmonton Green,Stratford,6,427,427,388,313
+Elephant & Castle,Bank and Monument,329,399,,,
+Elephant & Castle,Bond Street,48,126,,,
+Elephant & Castle,Canary Wharf,192,286,,,
+Elephant & Castle,Euston,103,104,,,
+Elephant & Castle,Green Park,70,157,,,
+Elephant & Castle,Liverpool Street,51,316,,,
+Elephant & Castle,Oxford Circus,804,237,,,
+Elephant & Castle,Stratford,95,267,,,
+Elephant & Castle,Warren Street,81,108,,,
+Elephant & Castle,Waterloo,193,152,,,
+Elephant & Castle,Westminster,13,104,,,
+Elm Park,Bank and Monument,75,125,127,129,130
+Elm Park,Bond Street,21,41,42,39,36
+Elm Park,Canary Wharf,90,100,57,110,119
+Elm Park,Euston,4,35,35,34,31
+Elm Park,Green Park,13,51,52,48,44
+Elm Park,Liverpool Street,80,102,104,107,109
+Elm Park,Oxford Circus,29,77,78,74,68
+Elm Park,Stratford,65,97,99,114,135
+Elm Park,Warren Street,2,35,36,34,31
+Elm Park,Waterloo,23,46,47,45,43
+Elm Park,Westminster,24,32,33,32,30
+Elverson Road,Bank and Monument,255,290,320,240,165
+Elverson Road,Canary Wharf,125,242,150,265,255
+Elverson Road,Stratford,55,220,242,181,123
+Embankment,Bank and Monument,166,172,175,195,191
+Embankment,Bond Street,7,59,60,71,74
+Embankment,Canary Wharf,44,124,71,90,51
+Embankment,Euston,34,48,49,52,48
+Embankment,Green Park,6,74,75,103,129
+Embankment,Liverpool Street,64,137,139,139,119
+Embankment,Oxford Circus,59,111,113,149,177
+Embankment,Stratford,26,117,119,77,39
+Embankment,Warren Street,42,50,51,59,60
+Embankment,Waterloo,52,71,72,138,255
+Embankment,Westminster,59,50,51,99,185
+Enfield Town,Liverpool Street,602,427,427,422,395
+Enfield Town,Stratford,0,393,393,368,324
+Epping,Bank and Monument,198,130,132,135,139
+Epping,Bond Street,59,43,44,42,40
+Epping,Canary Wharf,106,103,59,110,118
+Epping,Euston,13,36,37,36,35
+Epping,Green Park,16,53,54,52,49
+Epping,Liverpool Street,323,106,108,111,117
+Epping,Oxford Circus,99,81,82,79,76
+Epping,Stratford,394,101,103,119,144
+Epping,Warren Street,13,37,38,36,35
+Epping,Waterloo,51,48,49,48,47
+Epping,Westminster,22,34,34,33,33
+Euston,Bank and Monument,1956,688,,,
+Euston,Bond Street,70,247,,,
+Euston,Canary Wharf,478,509,,,
+Euston,Euston,0,999,,,
+Euston,Green Park,463,297,,,
+Euston,Liverpool Street,109,563,,,
+Euston,Oxford Circus,615,468,,,
+Euston,Stratford,100,486,,,
+Euston,Warren Street,26,237,,,
+Euston,Waterloo,652,259,,,
+Euston,Westminster,217,184,,,
+Euston Square,Bank and Monument,27,208,,,
+Euston Square,Bond Street,4,73,,,
+Euston Square,Canary Wharf,8,154,,,
+Euston Square,Euston,0,63,,,
+Euston Square,Green Park,3,87,,,
+Euston Square,Liverpool Street,745,170,,,
+Euston Square,Oxford Circus,4,134,,,
+Euston Square,Stratford,47,147,,,
+Euston Square,Warren Street,0,63,,,
+Euston Square,Waterloo,4,76,,,
+Euston Square,Westminster,7,54,,,
+Fairlop,Bank and Monument,67,48,49,50,50
+Fairlop,Bond Street,22,16,16,15,14
+Fairlop,Canary Wharf,27,38,22,41,44
+Fairlop,Euston,3,13,14,13,12
+Fairlop,Green Park,8,20,20,19,17
+Fairlop,Liverpool Street,89,39,40,41,42
+Fairlop,Oxford Circus,29,30,30,28,26
+Fairlop,Stratford,160,38,38,47,60
+Fairlop,Warren Street,3,14,14,13,12
+Fairlop,Waterloo,23,18,18,17,16
+Fairlop,Westminster,6,12,13,12,11
+Farringdon,Bank and Monument,55,225,228,328,446
+Farringdon,Bond Street,6,70,71,69,59
+Farringdon,Canary Wharf,6,159,91,133,93
+Farringdon,Euston,23,62,62,78,90
+Farringdon,Green Park,14,85,86,81,66
+Farringdon,Liverpool Street,991,186,189,294,440
+Farringdon,Oxford Circus,23,132,133,136,123
+Farringdon,Stratford,85,151,153,120,79
+Farringdon,Warren Street,28,62,63,73,76
+Farringdon,Waterloo,1,78,79,80,72
+Farringdon,Westminster,10,54,55,52,43
+Finchley Central,Bank and Monument,432,270,274,273,270
+Finchley Central,Bond Street,40,92,94,101,109
+Finchley Central,Canary Wharf,79,207,119,184,156
+Finchley Central,Euston,165,78,79,93,111
+Finchley Central,Green Park,75,113,114,121,128
+Finchley Central,Liverpool Street,65,220,223,225,225
+Finchley Central,Oxford Circus,137,172,174,191,211
+Finchley Central,Stratford,41,198,201,174,144
+Finchley Central,Warren Street,207,80,81,93,108
+Finchley Central,Waterloo,182,100,102,104,105
+Finchley Central,Westminster,38,71,72,74,75
+Finchley Road,Bank and Monument,60,197,200,189,165
+Finchley Road,Bond Street,192,70,71,85,100
+Finchley Road,Canary Wharf,292,150,86,119,83
+Finchley Road,Euston,0,57,58,62,64
+Finchley Road,Green Park,146,84,85,95,102
+Finchley Road,Liverpool Street,266,160,163,154,134
+Finchley Road,Oxford Circus,40,129,131,158,184
+Finchley Road,Stratford,21,143,145,111,75
+Finchley Road,Warren Street,0,59,59,66,70
+Finchley Road,Waterloo,83,74,75,76,73
+Finchley Road,Westminster,104,53,53,55,53
+Finchley Road & Frognal,Stratford,37,205,205,158,91
+Finsbury Park,Bank and Monument,262,984,,,
+Finsbury Park,Bond Street,112,334,,,
+Finsbury Park,Canary Wharf,272,747,,,
+Finsbury Park,Euston,446,287,,,
+Finsbury Park,Green Park,590,407,,,
+Finsbury Park,Liverpool Street,126,804,,,
+Finsbury Park,Oxford Circus,1442,624,,,
+Finsbury Park,Stratford,3,733,,,
+Finsbury Park,Warren Street,836,292,,,
+Finsbury Park,Waterloo,241,363,,,
+Finsbury Park,Westminster,184,258,,,
+Forest Gate,Liverpool Street,771,1023,1023,748,461
+Forest Gate,Stratford,1384,1065,1065,1386,1703
+Fulham Broadway,Bank and Monument,146,133,135,124,103
+Fulham Broadway,Bond Street,38,46,47,51,51
+Fulham Broadway,Canary Wharf,118,102,58,80,55
+Fulham Broadway,Euston,23,38,39,38,35
+Fulham Broadway,Green Park,101,58,58,68,75
+Fulham Broadway,Liverpool Street,56,108,109,97,78
+Fulham Broadway,Oxford Circus,92,86,87,95,97
+Fulham Broadway,Stratford,16,96,98,71,45
+Fulham Broadway,Warren Street,37,39,40,40,38
+Fulham Broadway,Waterloo,14,51,51,53,51
+Fulham Broadway,Westminster,41,36,37,40,41
+Gallions Reach,Bank and Monument,80,151,165,127,97
+Gallions Reach,Canary Wharf,14,124,76,126,121
+Gallions Reach,Stratford,0,118,129,117,109
+Gants Hill,Bank and Monument,296,221,225,235,245
+Gants Hill,Bond Street,98,73,74,69,63
+Gants Hill,Canary Wharf,190,176,101,199,222
+Gants Hill,Euston,16,61,62,60,57
+Gants Hill,Green Park,29,89,91,85,79
+Gants Hill,Liverpool Street,382,181,183,197,211
+Gants Hill,Oxford Circus,110,136,138,131,121
+Gants Hill,Stratford,835,177,179,247,358
+Gants Hill,Warren Street,18,63,64,61,57
+Gants Hill,Waterloo,119,81,82,81,78
+Gants Hill,Westminster,45,57,58,56,53
+Gidea Park,Liverpool Street,1661,1472,1472,1227,861
+Gidea Park,Stratford,1415,1410,1410,1366,1148
+Gloucester Road,Bank and Monument,175,193,195,177,141
+Gloucester Road,Bond Street,43,68,69,78,82
+Gloucester Road,Canary Wharf,223,146,84,109,68
+Gloucester Road,Euston,43,55,56,56,51
+Gloucester Road,Green Park,200,85,86,110,133
+Gloucester Road,Liverpool Street,126,155,157,137,104
+Gloucester Road,Oxford Circus,74,126,128,147,156
+Gloucester Road,Stratford,21,138,140,96,54
+Gloucester Road,Warren Street,47,57,58,60,57
+Gloucester Road,Waterloo,31,74,75,80,77
+Gloucester Road,Westminster,105,53,54,62,66
+Golders Green,Bank and Monument,328,210,213,212,208
+Golders Green,Bond Street,33,72,73,80,89
+Golders Green,Canary Wharf,40,160,92,138,112
+Golders Green,Euston,149,62,62,77,98
+Golders Green,Green Park,69,88,89,96,103
+Golders Green,Liverpool Street,42,171,174,175,175
+Golders Green,Oxford Circus,96,134,136,154,175
+Golders Green,Stratford,21,153,156,130,103
+Golders Green,Warren Street,142,63,64,76,93
+Golders Green,Waterloo,128,78,79,81,83
+Golders Green,Westminster,22,55,56,58,59
+Goldhawk Road,Bank and Monument,2,64,65,57,44
+Goldhawk Road,Bond Street,1,22,23,23,22
+Goldhawk Road,Canary Wharf,10,49,28,38,25
+Goldhawk Road,Green Park,10,27,28,30,29
+Goldhawk Road,Liverpool Street,60,52,53,46,35
+Goldhawk Road,Oxford Circus,1,41,42,43,40
+Goldhawk Road,Stratford,1,47,47,34,21
+Goldhawk Road,Warren Street,0,19,19,18,16
+Goldhawk Road,Waterloo,5,24,25,24,21
+Goldhawk Road,Westminster,3,17,18,18,16
+Goodge Street,Bank and Monument,10,16,16,16,14
+Goodge Street,Bond Street,1,6,6,7,9
+Goodge Street,Canary Wharf,16,12,7,8,5
+Goodge Street,Euston,6,5,5,9,14
+Goodge Street,Green Park,1,7,7,9,10
+Goodge Street,Liverpool Street,5,13,13,12,9
+Goodge Street,Oxford Circus,2,11,11,16,23
+Goodge Street,Stratford,2,11,11,7,4
+Goodge Street,Warren Street,1,5,5,13,30
+Goodge Street,Waterloo,49,6,6,7,7
+Goodge Street,Westminster,7,4,4,5,5
+Goodmayes,Liverpool Street,1040,1348,1348,1105,787
+Goodmayes,Stratford,1788,1314,1314,1371,1303
+Gospel Oak,Liverpool Street,0,154,154,141,112
+Gospel Oak,Stratford,70,142,142,124,92
+Grange Hill,Bank and Monument,56,35,36,36,36
+Grange Hill,Bond Street,17,12,12,11,10
+Grange Hill,Canary Wharf,21,28,16,30,31
+Grange Hill,Euston,2,10,10,9,9
+Grange Hill,Green Park,4,14,15,13,12
+Grange Hill,Liverpool Street,63,29,29,30,30
+Grange Hill,Oxford Circus,16,22,22,21,19
+Grange Hill,Stratford,82,28,28,34,42
+Grange Hill,Warren Street,1,10,10,10,9
+Grange Hill,Waterloo,9,13,13,13,12
+Grange Hill,Westminster,4,9,9,9,8
+Great Portland Street,Bank and Monument,14,50,50,49,43
+Great Portland Street,Bond Street,1,18,18,24,31
+Great Portland Street,Canary Wharf,25,37,21,27,17
+Great Portland Street,Green Park,1,21,21,25,27
+Great Portland Street,Liverpool Street,135,41,41,41,37
+Great Portland Street,Oxford Circus,1,33,33,44,56
+Great Portland Street,Stratford,11,35,36,25,15
+Great Portland Street,Warren Street,0,15,15,19,22
+Great Portland Street,Waterloo,1,18,19,19,17
+Great Portland Street,Westminster,4,13,13,13,12
+Green Park,Bank and Monument,51,85,86,82,68
+Green Park,Bond Street,25,32,33,55,89
+Green Park,Canary Wharf,228,63,36,44,25
+Green Park,Euston,42,25,25,30,32
+Green Park,Liverpool Street,39,68,69,61,47
+Green Park,Oxford Circus,37,60,61,108,188
+Green Park,Stratford,42,59,60,38,19
+Green Park,Warren Street,32,26,26,34,41
+Green Park,Waterloo,46,33,34,43,49
+Green Park,Westminster,22,25,25,38,56
+Greenford,Bank and Monument,130,118,120,115,108
+Greenford,Bond Street,68,41,41,44,47
+Greenford,Canary Wharf,50,91,52,80,67
+Greenford,Euston,15,34,34,34,35
+Greenford,Green Park,14,49,50,52,54
+Greenford,Liverpool Street,134,96,97,92,84
+Greenford,Oxford Circus,87,75,76,80,85
+Greenford,Stratford,40,87,88,74,60
+Greenford,Warren Street,24,34,35,36,37
+Greenford,Waterloo,27,44,45,44,43
+Greenford,Westminster,32,31,32,32,32
+Greenwich,Bank and Monument,169,318,348,262,187
+Greenwich,Canary Wharf,276,269,166,315,344
+Greenwich,Stratford,37,241,263,198,140
+Gunnersbury,Bank and Monument,52,90,91,85,75
+Gunnersbury,Bond Street,9,31,31,32,32
+Gunnersbury,Canary Wharf,23,69,40,58,44
+Gunnersbury,Euston,12,26,26,25,24
+Gunnersbury,Green Park,31,38,39,42,44
+Gunnersbury,Liverpool Street,15,73,74,67,58
+Gunnersbury,Oxford Circus,29,58,58,61,61
+Gunnersbury,Stratford,25,66,67,52,37
+Gunnersbury,Warren Street,10,26,27,27,25
+Gunnersbury,Waterloo,3,34,34,35,33
+Gunnersbury,Westminster,24,24,25,25,25
+Hackney Central,Stratford,742,554,,,
+Hackney Downs,Liverpool Street,475,388,,,
+Hackney Wick,Liverpool Street,0,208,208,189,139
+Hackney Wick,Stratford,578,221,221,403,682
+Haggerston,Stratford,3,358,358,321,244
+Hainault,Bank and Monument,172,137,139,143,146
+Hainault,Bond Street,61,45,46,44,40
+Hainault,Canary Wharf,82,109,62,118,127
+Hainault,Euston,9,38,39,37,36
+Hainault,Green Park,23,56,56,53,50
+Hainault,Liverpool Street,267,112,113,119,124
+Hainault,Oxford Circus,72,84,86,82,76
+Hainault,Stratford,443,107,109,135,172
+Hainault,Warren Street,11,39,39,38,36
+Hainault,Waterloo,57,50,51,50,48
+Hainault,Westminster,20,35,36,35,33
+Hammersmith,Bank and Monument,201,450,,,
+Hammersmith,Bond Street,65,156,,,
+Hammersmith,Canary Wharf,193,344,,,
+Hammersmith,Euston,23,128,,,
+Hammersmith,Green Park,362,193,,,
+Hammersmith,Liverpool Street,371,364,,,
+Hammersmith,Oxford Circus,118,290,,,
+Hammersmith,Stratford,51,326,,,
+Hammersmith,Warren Street,19,132,,,
+Hammersmith,Waterloo,40,170,,,
+Hammersmith,Westminster,112,122,,,
+Hampstead,Bank and Monument,187,86,88,86,83
+Hampstead,Bond Street,8,30,30,34,38
+Hampstead,Canary Wharf,16,66,38,54,41
+Hampstead,Euston,62,26,26,35,47
+Hampstead,Green Park,37,36,37,40,43
+Hampstead,Liverpool Street,26,70,72,72,70
+Hampstead,Oxford Circus,43,56,57,66,76
+Hampstead,Stratford,4,63,64,51,38
+Hampstead,Warren Street,67,26,27,33,43
+Hampstead,Waterloo,44,32,33,33,34
+Hampstead,Westminster,10,23,23,24,24
+Hampstead Heath,Liverpool Street,1,129,129,118,93
+Hampstead Heath,Stratford,90,119,119,103,77
+Hanger Lane,Bank and Monument,120,92,93,88,82
+Hanger Lane,Bond Street,67,32,32,35,39
+Hanger Lane,Canary Wharf,37,71,41,61,49
+Hanger Lane,Euston,11,26,27,27,27
+Hanger Lane,Green Park,11,39,39,41,43
+Hanger Lane,Liverpool Street,112,74,76,70,63
+Hanger Lane,Oxford Circus,81,59,60,64,68
+Hanger Lane,Stratford,23,67,68,56,43
+Hanger Lane,Warren Street,18,27,27,28,29
+Hanger Lane,Waterloo,12,34,35,34,33
+Hanger Lane,Westminster,16,24,25,25,25
+Harlesden,Bank and Monument,18,64,65,60,52
+Harlesden,Bond Street,7,22,23,24,25
+Harlesden,Canary Wharf,12,49,28,40,30
+Harlesden,Euston,83,19,19,20,22
+Harlesden,Green Park,7,27,27,28,28
+Harlesden,Liverpool Street,14,52,53,49,43
+Harlesden,Oxford Circus,32,41,42,44,44
+Harlesden,Stratford,8,47,48,38,28
+Harlesden,Warren Street,2,19,19,20,21
+Harlesden,Waterloo,18,24,24,23,21
+Harlesden,Westminster,8,17,17,17,16
+Harold Wood,Liverpool Street,1130,1299,1299,1121,876
+Harold Wood,Stratford,1316,1240,1240,1224,1123
+Harringay Green Lanes,Stratford,0,138,138,120,93
+Harrow & Wealdstone,Bank and Monument,20,74,75,71,66
+Harrow & Wealdstone,Bond Street,4,25,26,27,28
+Harrow & Wealdstone,Canary Wharf,13,57,33,51,42
+Harrow & Wealdstone,Euston,0,21,22,22,23
+Harrow & Wealdstone,Green Park,2,31,31,32,32
+Harrow & Wealdstone,Liverpool Street,3,60,61,58,55
+Harrow & Wealdstone,Oxford Circus,31,47,48,49,50
+Harrow & Wealdstone,Stratford,5,55,56,48,40
+Harrow & Wealdstone,Warren Street,0,22,22,23,23
+Harrow & Wealdstone,Waterloo,19,28,28,27,26
+Harrow & Wealdstone,Westminster,3,20,20,19,19
+Harrow-on-the-Hill,Bank and Monument,45,263,267,253,233
+Harrow-on-the-Hill,Bond Street,110,90,92,95,98
+Harrow-on-the-Hill,Canary Wharf,243,203,117,178,146
+Harrow-on-the-Hill,Euston,0,75,76,76,75
+Harrow-on-the-Hill,Green Park,83,110,111,113,113
+Harrow-on-the-Hill,Liverpool Street,263,214,217,206,189
+Harrow-on-the-Hill,Oxford Circus,71,167,170,177,181
+Harrow-on-the-Hill,Stratford,47,196,198,173,144
+Harrow-on-the-Hill,Warren Street,0,77,78,79,78
+Harrow-on-the-Hill,Waterloo,93,98,99,97,93
+Harrow-on-the-Hill,Westminster,119,70,71,69,67
+Hatch End,Euston,70,83,83,79,69
+Hatch End,Stratford,0,217,217,175,124
+Hatton Cross,Bank and Monument,15,59,60,57,52
+Hatton Cross,Bond Street,9,20,20,20,20
+Hatton Cross,Canary Wharf,10,46,26,41,35
+Hatton Cross,Euston,8,17,17,16,16
+Hatton Cross,Green Park,25,25,25,25,26
+Hatton Cross,Liverpool Street,15,48,48,45,41
+Hatton Cross,Oxford Circus,21,37,38,38,37
+Hatton Cross,Stratford,6,44,44,38,31
+Hatton Cross,Warren Street,7,17,17,17,16
+Hatton Cross,Waterloo,4,22,22,22,21
+Hatton Cross,Westminster,5,16,16,16,16
+Headstone Lane,Euston,29,45,45,42,35
+Headstone Lane,Stratford,1,117,117,93,63
+Heathrow Terminal 4,Bank and Monument,5,34,35,33,31
+Heathrow Terminal 4,Bond Street,1,12,12,12,12
+Heathrow Terminal 4,Canary Wharf,4,27,15,24,21
+Heathrow Terminal 4,Euston,7,10,10,10,9
+Heathrow Terminal 4,Green Park,8,14,15,15,15
+Heathrow Terminal 4,Liverpool Street,3,28,28,26,24
+Heathrow Terminal 4,Oxford Circus,2,22,22,22,22
+Heathrow Terminal 4,Stratford,8,25,26,22,18
+Heathrow Terminal 4,Warren Street,1,10,10,10,10
+Heathrow Terminal 4,Waterloo,2,13,13,13,12
+Heathrow Terminal 4,Westminster,2,9,9,9,9
+Heathrow Terminal 5,Bank and Monument,14,39,40,38,36
+Heathrow Terminal 5,Bond Street,5,13,14,14,14
+Heathrow Terminal 5,Canary Wharf,14,31,18,28,25
+Heathrow Terminal 5,Euston,8,11,11,11,11
+Heathrow Terminal 5,Green Park,26,16,17,17,17
+Heathrow Terminal 5,Liverpool Street,13,32,33,31,29
+Heathrow Terminal 5,Oxford Circus,5,25,25,25,25
+Heathrow Terminal 5,Stratford,6,29,30,26,22
+Heathrow Terminal 5,Warren Street,2,11,12,11,11
+Heathrow Terminal 5,Waterloo,4,15,15,15,14
+Heathrow Terminal 5,Westminster,4,10,11,11,11
+Heathrow Terminals 2 & 3,Bank and Monument,26,88,90,86,80
+Heathrow Terminals 2 & 3,Bond Street,7,30,31,31,30
+Heathrow Terminals 2 & 3,Canary Wharf,29,69,39,63,54
+Heathrow Terminals 2 & 3,Euston,21,25,25,25,24
+Heathrow Terminals 2 & 3,Green Park,39,37,37,38,39
+Heathrow Terminals 2 & 3,Liverpool Street,23,72,73,69,63
+Heathrow Terminals 2 & 3,Oxford Circus,9,56,57,57,57
+Heathrow Terminals 2 & 3,Stratford,28,66,67,58,48
+Heathrow Terminals 2 & 3,Warren Street,4,26,26,26,25
+Heathrow Terminals 2 & 3,Waterloo,17,33,33,33,32
+Heathrow Terminals 2 & 3,Westminster,9,23,24,24,24
+Hendon Central,Bank and Monument,249,176,179,178,175
+Hendon Central,Bond Street,41,60,61,66,71
+Hendon Central,Canary Wharf,39,135,78,120,100
+Hendon Central,Euston,106,51,52,61,73
+Hendon Central,Green Park,72,74,75,79,84
+Hendon Central,Liverpool Street,39,144,146,147,146
+Hendon Central,Oxford Circus,101,112,114,125,138
+Hendon Central,Stratford,26,130,131,113,92
+Hendon Central,Warren Street,114,52,53,61,71
+Hendon Central,Waterloo,130,66,67,68,69
+Hendon Central,Westminster,18,47,47,48,49
+Heron Quays,Bank and Monument,913,413,458,253,99
+Heron Quays,Canary Wharf,34,409,257,804,1268
+Heron Quays,Stratford,13,312,346,190,73
+High Barnet,Bank and Monument,247,141,143,143,143
+High Barnet,Bond Street,25,48,49,51,55
+High Barnet,Canary Wharf,37,109,63,100,90
+High Barnet,Euston,96,40,41,46,52
+High Barnet,Green Park,30,59,59,62,65
+High Barnet,Liverpool Street,20,115,117,117,118
+High Barnet,Oxford Circus,73,89,91,96,104
+High Barnet,Stratford,15,104,106,95,84
+High Barnet,Warren Street,96,41,42,46,51
+High Barnet,Waterloo,105,52,53,54,55
+High Barnet,Westminster,23,37,38,38,39
+High Street Kensington,Bank and Monument,99,86,88,79,64
+High Street Kensington,Bond Street,38,31,31,38,43
+High Street Kensington,Canary Wharf,90,66,38,50,32
+High Street Kensington,Euston,9,25,25,26,24
+High Street Kensington,Green Park,15,38,38,46,52
+High Street Kensington,Liverpool Street,92,70,71,61,47
+High Street Kensington,Oxford Circus,36,57,57,66,71
+High Street Kensington,Stratford,14,62,63,44,26
+High Street Kensington,Warren Street,7,26,26,27,27
+High Street Kensington,Waterloo,17,33,33,35,33
+High Street Kensington,Westminster,60,24,24,26,27
+Highams Park,Liverpool Street,1376,537,537,552,546
+Highams Park,Stratford,0,493,493,475,435
+Highbury & Islington,Bank and Monument,6,919,931,959,948
+Highbury & Islington,Bond Street,94,313,317,342,358
+Highbury & Islington,Canary Wharf,52,695,398,591,457
+Highbury & Islington,Euston,589,272,275,367,494
+Highbury & Islington,Green Park,693,380,385,403,406
+Highbury & Islington,Liverpool Street,3,751,761,802,815
+Highbury & Islington,Oxford Circus,1964,585,592,668,736
+Highbury & Islington,Stratford,949,687,696,673,618
+Highbury & Islington,Warren Street,991,275,279,349,437
+Highbury & Islington,Waterloo,160,339,343,346,333
+Highbury & Islington,Westminster,89,240,243,245,237
+Highgate,Bank and Monument,336,197,200,200,195
+Highgate,Bond Street,34,68,69,77,85
+Highgate,Canary Wharf,56,150,86,128,102
+Highgate,Euston,150,58,59,75,98
+Highgate,Green Park,58,83,84,91,99
+Highgate,Liverpool Street,38,161,163,165,164
+Highgate,Oxford Circus,105,127,129,147,169
+Highgate,Stratford,14,144,146,120,93
+Highgate,Warren Street,176,59,60,73,92
+Highgate,Waterloo,186,74,75,77,78
+Highgate,Westminster,24,52,53,55,55
+Hillingdon,Bank and Monument,8,65,66,62,55
+Hillingdon,Bond Street,18,22,23,22,22
+Hillingdon,Canary Wharf,45,50,29,45,37
+Hillingdon,Green Park,15,27,27,27,25
+Hillingdon,Liverpool Street,57,53,54,50,45
+Hillingdon,Oxford Circus,16,41,42,42,40
+Hillingdon,Stratford,7,48,49,43,36
+Hillingdon,Warren Street,0,19,19,19,18
+Hillingdon,Waterloo,13,24,25,23,22
+Hillingdon,Westminster,24,17,17,17,15
+Holborn,Bank and Monument,195,72,73,86,93
+Holborn,Bond Street,46,24,25,31,35
+Holborn,Canary Wharf,4,51,29,38,23
+Holborn,Euston,5,20,21,25,27
+Holborn,Green Park,30,30,30,38,45
+Holborn,Liverpool Street,156,57,58,61,56
+Holborn,Oxford Circus,49,46,47,66,87
+Holborn,Stratford,94,48,49,33,17
+Holborn,Warren Street,3,21,21,28,34
+Holborn,Waterloo,7,27,27,32,33
+Holborn,Westminster,13,19,19,22,24
+Holland Park,Bank and Monument,154,67,68,62,51
+Holland Park,Bond Street,109,24,24,31,37
+Holland Park,Canary Wharf,67,51,29,38,25
+Holland Park,Euston,10,19,20,21,20
+Holland Park,Green Park,30,29,29,33,35
+Holland Park,Liverpool Street,163,54,55,48,38
+Holland Park,Oxford Circus,99,44,45,53,60
+Holland Park,Stratford,22,48,49,34,21
+Holland Park,Warren Street,9,20,20,22,22
+Holland Park,Waterloo,11,25,25,25,23
+Holland Park,Westminster,24,18,18,19,18
+Holloway Road,Bank and Monument,98,128,129,133,131
+Holloway Road,Bond Street,29,43,44,48,50
+Holloway Road,Canary Wharf,24,96,55,78,56
+Holloway Road,Euston,36,38,38,51,68
+Holloway Road,Green Park,58,53,53,56,56
+Holloway Road,Liverpool Street,61,104,106,112,113
+Holloway Road,Oxford Circus,51,81,82,93,102
+Holloway Road,Stratford,5,92,94,78,59
+Holloway Road,Warren Street,25,38,39,48,60
+Holloway Road,Waterloo,45,47,48,48,46
+Holloway Road,Westminster,17,33,34,34,33
+Homerton,Liverpool Street,21,476,476,434,341
+Homerton,Stratford,1061,488,488,732,1046
+Hornchurch,Bank and Monument,46,83,84,85,85
+Hornchurch,Bond Street,16,28,28,26,24
+Hornchurch,Canary Wharf,54,66,38,72,77
+Hornchurch,Euston,1,23,23,22,21
+Hornchurch,Green Park,8,34,34,32,29
+Hornchurch,Liverpool Street,49,68,69,70,71
+Hornchurch,Oxford Circus,18,51,52,49,45
+Hornchurch,Stratford,31,64,65,75,86
+Hornchurch,Warren Street,2,24,24,23,21
+Hornchurch,Waterloo,11,30,31,30,28
+Hornchurch,Westminster,16,22,22,21,19
+Hounslow Central,Bank and Monument,53,94,95,90,81
+Hounslow Central,Bond Street,25,32,33,33,32
+Hounslow Central,Canary Wharf,39,73,42,64,53
+Hounslow Central,Euston,12,27,27,26,25
+Hounslow Central,Green Park,35,39,40,41,41
+Hounslow Central,Liverpool Street,45,76,77,72,64
+Hounslow Central,Oxford Circus,19,59,60,61,59
+Hounslow Central,Stratford,15,69,70,59,46
+Hounslow Central,Warren Street,19,27,28,27,26
+Hounslow Central,Waterloo,7,35,36,35,34
+Hounslow Central,Westminster,13,25,25,26,25
+Hounslow East,Bank and Monument,34,94,95,90,81
+Hounslow East,Bond Street,16,32,32,33,32
+Hounslow East,Canary Wharf,37,72,42,64,53
+Hounslow East,Euston,9,26,27,26,25
+Hounslow East,Green Park,41,39,40,41,42
+Hounslow East,Liverpool Street,42,76,77,72,64
+Hounslow East,Oxford Circus,25,59,60,61,60
+Hounslow East,Stratford,16,69,70,59,46
+Hounslow East,Warren Street,17,27,28,27,26
+Hounslow East,Waterloo,8,35,35,35,34
+Hounslow East,Westminster,9,25,25,26,25
+Hounslow West,Bank and Monument,54,89,90,86,79
+Hounslow West,Bond Street,16,30,31,31,31
+Hounslow West,Canary Wharf,52,69,40,62,52
+Hounslow West,Euston,14,25,26,25,24
+Hounslow West,Green Park,43,37,38,39,40
+Hounslow West,Liverpool Street,41,72,73,69,62
+Hounslow West,Oxford Circus,33,56,57,58,57
+Hounslow West,Stratford,12,66,67,57,46
+Hounslow West,Warren Street,20,26,26,26,25
+Hounslow West,Waterloo,14,33,34,33,33
+Hounslow West,Westminster,17,24,24,24,24
+Hoxton,Stratford,1,184,184,170,132
+Hyde Park Corner,Bank and Monument,10,11,11,10,9
+Hyde Park Corner,Bond Street,1,4,4,6,8
+Hyde Park Corner,Canary Wharf,8,8,5,6,3
+Hyde Park Corner,Euston,3,3,3,4,4
+Hyde Park Corner,Green Park,8,5,5,11,24
+Hyde Park Corner,Liverpool Street,11,9,9,8,6
+Hyde Park Corner,Oxford Circus,4,7,7,11,16
+Hyde Park Corner,Stratford,6,8,8,5,3
+Hyde Park Corner,Warren Street,2,3,3,4,4
+Hyde Park Corner,Waterloo,1,4,4,5,5
+Hyde Park Corner,Westminster,1,3,3,4,5
+Ickenham,Bank and Monument,4,40,41,38,34
+Ickenham,Bond Street,5,14,14,14,13
+Ickenham,Canary Wharf,25,31,18,27,23
+Ickenham,Green Park,11,17,17,17,16
+Ickenham,Liverpool Street,27,33,33,31,28
+Ickenham,Oxford Circus,8,25,26,26,25
+Ickenham,Stratford,2,30,31,27,22
+Ickenham,Warren Street,0,12,12,12,11
+Ickenham,Waterloo,8,15,15,14,13
+Ickenham,Westminster,19,11,11,10,9
+Ilford,Liverpool Street,1684,2313,2313,1893,1408
+Ilford,Stratford,3080,2294,2294,2604,2866
+Imperial Wharf,Euston,1,53,53,57,54
+Imperial Wharf,Stratford,5,135,135,108,72
+Island Gardens,Bank and Monument,532,324,354,258,177
+Island Gardens,Canary Wharf,94,279,173,355,425
+Island Gardens,Stratford,35,245,268,194,132
+Kennington,Bank and Monument,255,159,161,203,248
+Kennington,Bond Street,45,52,52,54,52
+Kennington,Canary Wharf,128,116,67,100,76
+Kennington,Euston,66,43,43,42,38
+Kennington,Green Park,25,64,65,73,77
+Kennington,Liverpool Street,24,127,129,146,158
+Kennington,Oxford Circus,44,97,98,106,108
+Kennington,Stratford,57,109,110,82,54
+Kennington,Warren Street,97,44,45,45,43
+Kennington,Waterloo,127,62,63,99,159
+Kennington,Westminster,11,42,43,58,76
+Kensal Green,Bank and Monument,36,85,86,80,71
+Kensal Green,Bond Street,16,30,30,32,34
+Kensal Green,Canary Wharf,25,65,37,52,39
+Kensal Green,Euston,239,25,25,29,33
+Kensal Green,Green Park,18,36,36,37,37
+Kensal Green,Liverpool Street,35,69,70,66,60
+Kensal Green,Oxford Circus,125,55,56,60,63
+Kensal Green,Stratford,2,62,63,49,35
+Kensal Green,Warren Street,3,25,26,29,31
+Kensal Green,Waterloo,25,32,32,31,29
+Kensal Green,Westminster,17,23,23,22,21
+Kensal Rise,Euston,0,104,104,103,90
+Kensal Rise,Stratford,39,269,269,212,141
+Kensington,Bank and Monument,0,19,19,17,14
+Kensington,Bond Street,0,7,7,8,8
+Kensington,Canary Wharf,0,14,8,11,7
+Kensington,Euston,0,5,5,5,5
+Kensington,Green Park,0,8,8,9,10
+Kensington,Liverpool Street,0,15,15,13,11
+Kensington,Oxford Circus,0,12,12,13,14
+Kensington,Stratford,6,13,14,10,6
+Kensington,Warren Street,0,6,6,6,5
+Kensington,Waterloo,0,7,7,7,7
+Kensington,Westminster,0,5,5,5,5
+Kentish Town,Bank and Monument,141,101,102,102,96
+Kentish Town,Bond Street,13,35,36,42,48
+Kentish Town,Canary Wharf,40,76,43,61,44
+Kentish Town,Euston,70,31,31,47,74
+Kentish Town,Green Park,49,43,43,49,54
+Kentish Town,Liverpool Street,25,82,83,85,82
+Kentish Town,Oxford Circus,55,66,67,82,101
+Kentish Town,Stratford,5,72,73,57,39
+Kentish Town,Warren Street,61,31,31,44,63
+Kentish Town,Waterloo,106,38,38,40,40
+Kentish Town,Westminster,21,27,27,28,28
+Kentish Town West,Euston,0,40,40,42,38
+Kentish Town West,Stratford,50,102,102,89,65
+Kenton,Bank and Monument,0,66,68,62,56
+Kenton,Bond Street,0,23,23,24,24
+Kenton,Canary Wharf,0,51,30,44,35
+Kenton,Euston,9,19,19,20,20
+Kenton,Liverpool Street,0,54,55,51,46
+Kenton,Oxford Circus,8,42,43,43,43
+Kenton,Stratford,1,49,50,42,33
+Kenton,Warren Street,0,19,20,20,20
+Kenton,Waterloo,7,25,25,24,22
+Kenton,Westminster,1,18,18,17,16
+Kew Gardens,Bank and Monument,53,89,90,84,74
+Kew Gardens,Bond Street,13,30,31,31,31
+Kew Gardens,Canary Wharf,53,68,39,58,45
+Kew Gardens,Euston,21,25,26,25,23
+Kew Gardens,Green Park,44,38,38,40,41
+Kew Gardens,Liverpool Street,17,72,73,66,57
+Kew Gardens,Oxford Circus,44,57,57,59,58
+Kew Gardens,Stratford,19,65,66,53,38
+Kew Gardens,Warren Street,15,26,26,26,25
+Kew Gardens,Waterloo,3,33,34,34,32
+Kew Gardens,Westminster,28,24,24,25,24
+Kilburn,Bank and Monument,94,197,199,189,169
+Kilburn,Bond Street,222,69,70,80,91
+Kilburn,Canary Wharf,229,150,86,122,90
+Kilburn,Euston,5,56,57,60,62
+Kilburn,Green Park,151,83,84,92,97
+Kilburn,Liverpool Street,127,160,162,153,138
+Kilburn,Oxford Circus,71,128,129,149,168
+Kilburn,Stratford,25,145,147,120,90
+Kilburn,Warren Street,2,58,59,64,67
+Kilburn,Waterloo,119,74,75,75,72
+Kilburn,Westminster,141,52,53,54,53
+Kilburn High Road,Euston,232,56,56,65,69
+Kilburn Park,Bank and Monument,49,84,85,79,69
+Kilburn Park,Bond Street,8,30,30,35,39
+Kilburn Park,Canary Wharf,48,64,37,51,36
+Kilburn Park,Euston,5,24,25,28,30
+Kilburn Park,Green Park,20,36,36,39,41
+Kilburn Park,Liverpool Street,52,68,69,64,56
+Kilburn Park,Oxford Circus,118,55,56,64,73
+Kilburn Park,Stratford,15,61,62,47,32
+Kilburn Park,Warren Street,3,25,25,27,29
+Kilburn Park,Waterloo,65,31,32,32,30
+Kilburn Park,Westminster,11,22,23,23,22
+King George V,Bank and Monument,153,222,242,182,135
+King George V,Canary Wharf,8,182,112,182,171
+King George V,Stratford,132,174,189,169,154
+King's Cross St. Pancras,Bank and Monument,1366,1192,1209,1281,1236
+King's Cross St. Pancras,Bond Street,113,409,414,478,509
+King's Cross St. Pancras,Canary Wharf,388,874,501,649,403
+King's Cross St. Pancras,Euston,156,379,384,756,1530
+King's Cross St. Pancras,Green Park,693,494,501,545,543
+King's Cross St. Pancras,Liverpool Street,1201,978,991,1093,1105
+King's Cross St. Pancras,Oxford Circus,1260,770,780,976,1148
+King's Cross St. Pancras,Stratford,108,833,845,598,356
+King's Cross St. Pancras,Warren Street,197,373,378,606,960
+King's Cross St. Pancras,Waterloo,308,438,444,454,419
+King's Cross St. Pancras,Westminster,317,311,315,323,299
+Kingsbury,Bank and Monument,30,117,119,114,106
+Kingsbury,Bond Street,90,40,41,43,46
+Kingsbury,Canary Wharf,108,90,52,79,66
+Kingsbury,Euston,0,33,34,34,34
+Kingsbury,Green Park,54,49,50,51,52
+Kingsbury,Liverpool Street,44,95,97,93,87
+Kingsbury,Oxford Circus,19,75,76,80,84
+Kingsbury,Stratford,29,87,88,77,65
+Kingsbury,Warren Street,0,34,35,36,36
+Kingsbury,Waterloo,67,44,44,44,43
+Kingsbury,Westminster,60,31,31,31,31
+Knightsbridge,Bank and Monument,28,46,46,44,39
+Knightsbridge,Bond Street,10,17,17,23,30
+Knightsbridge,Canary Wharf,47,34,20,25,16
+Knightsbridge,Euston,10,13,13,15,16
+Knightsbridge,Green Park,75,21,22,38,68
+Knightsbridge,Liverpool Street,42,37,37,34,27
+Knightsbridge,Oxford Circus,23,31,31,44,59
+Knightsbridge,Stratford,24,32,33,22,13
+Knightsbridge,Warren Street,12,14,14,16,18
+Knightsbridge,Waterloo,8,18,18,21,23
+Knightsbridge,Westminster,4,13,13,17,21
+Ladbroke Grove,Bank and Monument,15,99,100,93,80
+Ladbroke Grove,Bond Street,13,35,35,40,45
+Ladbroke Grove,Canary Wharf,42,75,43,59,42
+Ladbroke Grove,Green Park,24,42,42,46,47
+Ladbroke Grove,Liverpool Street,128,80,81,75,65
+Ladbroke Grove,Oxford Circus,23,64,65,75,83
+Ladbroke Grove,Stratford,8,72,73,55,37
+Ladbroke Grove,Warren Street,0,29,30,32,32
+Ladbroke Grove,Waterloo,20,37,37,37,35
+Ladbroke Grove,Westminster,17,26,27,27,25
+Lambeth North,Bank and Monument,23,49,49,57,61
+Lambeth North,Bond Street,3,16,16,18,17
+Lambeth North,Canary Wharf,9,35,20,28,19
+Lambeth North,Euston,16,13,13,14,12
+Lambeth North,Green Park,13,20,20,25,28
+Lambeth North,Liverpool Street,12,39,39,41,39
+Lambeth North,Oxford Circus,119,30,31,35,37
+Lambeth North,Stratford,4,33,34,24,14
+Lambeth North,Warren Street,14,14,14,15,14
+Lambeth North,Waterloo,18,21,21,50,123
+Lambeth North,Westminster,1,14,14,22,35
+Lancaster Gate,Bank and Monument,600,154,156,148,129
+Lancaster Gate,Bond Street,102,58,58,93,152
+Lancaster Gate,Canary Wharf,129,116,66,86,56
+Lancaster Gate,Euston,24,45,46,52,58
+Lancaster Gate,Green Park,40,68,69,90,116
+Lancaster Gate,Liverpool Street,400,124,126,113,93
+Lancaster Gate,Oxford Circus,135,104,106,152,218
+Lancaster Gate,Stratford,76,109,111,76,46
+Lancaster Gate,Warren Street,14,47,47,58,68
+Lancaster Gate,Waterloo,34,58,59,62,62
+Lancaster Gate,Westminster,34,42,42,47,50
+Langdon Park,Bank and Monument,172,330,360,256,175
+Langdon Park,Canary Wharf,149,288,178,375,481
+Langdon Park,Stratford,597,261,286,257,235
+Latimer Road,Bank and Monument,9,37,38,35,29
+Latimer Road,Bond Street,6,13,13,15,16
+Latimer Road,Canary Wharf,13,29,16,23,16
+Latimer Road,Green Park,7,16,16,17,17
+Latimer Road,Liverpool Street,32,30,31,28,24
+Latimer Road,Oxford Circus,9,24,25,28,29
+Latimer Road,Stratford,2,27,28,21,14
+Latimer Road,Warren Street,0,11,11,12,12
+Latimer Road,Waterloo,6,14,14,14,13
+Latimer Road,Westminster,7,10,10,10,9
+Leicester Square,Bank and Monument,16,41,41,41,34
+Leicester Square,Bond Street,3,14,15,19,21
+Leicester Square,Canary Wharf,27,30,17,20,10
+Leicester Square,Euston,28,12,12,14,14
+Leicester Square,Green Park,17,18,19,30,42
+Leicester Square,Liverpool Street,16,33,33,30,22
+Leicester Square,Oxford Circus,4,28,28,42,55
+Leicester Square,Stratford,17,28,28,18,8
+Leicester Square,Warren Street,15,12,13,17,19
+Leicester Square,Waterloo,54,16,16,23,28
+Leicester Square,Westminster,3,11,12,16,20
+Lewisham,Bank and Monument,585,1830,1997,1598,1279
+Lewisham,Canary Wharf,1920,1518,937,1726,1893
+Lewisham,Stratford,543,1383,1510,1204,960
+Leyton,Bank and Monument,344,324,329,347,346
+Leyton,Bond Street,140,106,107,96,78
+Leyton,Canary Wharf,197,260,149,308,346
+Leyton,Euston,16,89,90,84,72
+Leyton,Green Park,40,130,131,118,97
+Leyton,Liverpool Street,455,266,270,296,308
+Leyton,Oxford Circus,193,197,200,181,151
+Leyton,Stratford,1193,278,282,559,1186
+Leyton,Warren Street,15,91,92,85,71
+Leyton,Waterloo,193,118,119,114,101
+Leyton,Westminster,60,83,84,78,67
+Leytonstone,Bank and Monument,310,284,288,304,312
+Leytonstone,Bond Street,119,93,94,86,74
+Leytonstone,Canary Wharf,155,227,130,265,300
+Leytonstone,Euston,15,78,79,75,68
+Leytonstone,Green Park,42,114,116,106,92
+Leytonstone,Liverpool Street,442,233,236,257,274
+Leytonstone,Oxford Circus,175,173,176,162,142
+Leytonstone,Stratford,1096,235,239,398,704
+Leytonstone,Warren Street,16,80,81,76,67
+Leytonstone,Waterloo,180,103,105,102,94
+Leytonstone,Westminster,67,73,74,70,63
+Limehouse,Bank and Monument,2208,1153,,,
+Limehouse,Canary Wharf,627,956,,,
+Limehouse,Stratford,48,828,,,
+Liverpool Street,Bank and Monument,812,1262,,,
+Liverpool Street,Bond Street,681,364,,,
+Liverpool Street,Canary Wharf,24,844,,,
+Liverpool Street,Euston,38,310,,,
+Liverpool Street,Green Park,168,447,,,
+Liverpool Street,Liverpool Street,0,4602,,,
+Liverpool Street,Oxford Circus,940,681,,,
+Liverpool Street,Stratford,700,805,,,
+Liverpool Street,Warren Street,17,315,,,
+Liverpool Street,Waterloo,450,416,,,
+Liverpool Street,Westminster,374,290,,,
+London Bridge,Bank and Monument,445,1407,,,
+London Bridge,Bond Street,1814,412,,,
+London Bridge,Canary Wharf,6165,951,,,
+London Bridge,Euston,859,340,,,
+London Bridge,Green Park,1283,512,,,
+London Bridge,Liverpool Street,163,1084,,,
+London Bridge,Oxford Circus,245,771,,,
+London Bridge,Stratford,1012,885,,,
+London Bridge,Warren Street,158,351,,,
+London Bridge,Waterloo,791,492,,,
+London Bridge,Westminster,721,338,,,
+London City Airport,Bank and Monument,636,456,496,372,275
+London City Airport,Canary Wharf,28,375,231,383,372
+London City Airport,Stratford,201,358,390,354,331
+London Fields,Liverpool Street,800,382,382,413,424
+London Fields,Stratford,0,342,342,307,252
+Loughton,Bank and Monument,229,125,127,130,133
+Loughton,Bond Street,74,41,42,39,36
+Loughton,Canary Wharf,106,99,57,108,117
+Loughton,Euston,8,35,35,34,32
+Loughton,Green Park,17,51,51,48,45
+Loughton,Liverpool Street,336,102,103,108,113
+Loughton,Oxford Circus,75,77,78,74,69
+Loughton,Stratford,438,98,100,124,160
+Loughton,Warren Street,6,35,36,34,32
+Loughton,Waterloo,43,46,46,45,44
+Loughton,Westminster,25,32,33,32,30
+Maida Vale,Bank and Monument,79,91,93,86,74
+Maida Vale,Bond Street,18,32,33,39,45
+Maida Vale,Canary Wharf,81,69,40,54,37
+Maida Vale,Euston,9,26,27,28,29
+Maida Vale,Green Park,22,39,40,43,46
+Maida Vale,Liverpool Street,98,74,75,70,60
+Maida Vale,Oxford Circus,139,60,61,72,83
+Maida Vale,Stratford,15,66,67,50,33
+Maida Vale,Warren Street,5,27,28,30,31
+Maida Vale,Waterloo,68,34,35,35,33
+Maida Vale,Westminster,17,24,25,25,24
+Manor House,Bank and Monument,111,228,231,232,224
+Manor House,Bond Street,42,77,78,81,82
+Manor House,Canary Wharf,50,173,99,149,117
+Manor House,Euston,71,66,67,79,94
+Manor House,Green Park,121,94,95,97,95
+Manor House,Liverpool Street,58,186,188,193,190
+Manor House,Oxford Circus,235,144,146,156,163
+Manor House,Stratford,16,170,172,162,145
+Manor House,Warren Street,128,67,68,78,88
+Manor House,Waterloo,59,84,85,84,80
+Manor House,Westminster,34,60,60,60,57
+Manor Park,Liverpool Street,624,752,752,586,402
+Manor Park,Stratford,875,760,760,906,1033
+Mansion House,Bank and Monument,8,26,27,58,118
+Mansion House,Bond Street,1,7,8,7,5
+Mansion House,Canary Wharf,0,17,10,14,9
+Mansion House,Euston,0,6,6,5,4
+Mansion House,Green Park,8,9,9,9,7
+Mansion House,Liverpool Street,4,20,20,30,39
+Mansion House,Oxford Circus,1,14,14,14,10
+Mansion House,Stratford,3,16,16,12,6
+Mansion House,Warren Street,1,6,6,6,4
+Mansion House,Waterloo,2,9,9,9,8
+Mansion House,Westminster,42,6,6,7,6
+Marble Arch,Bank and Monument,256,75,76,72,61
+Marble Arch,Bond Street,5,30,30,69,163
+Marble Arch,Canary Wharf,50,56,32,40,24
+Marble Arch,Euston,14,22,23,28,32
+Marble Arch,Green Park,7,34,34,51,74
+Marble Arch,Liverpool Street,203,60,61,55,43
+Marble Arch,Oxford Circus,30,53,54,95,166
+Marble Arch,Stratford,67,53,54,35,19
+Marble Arch,Warren Street,6,23,24,31,40
+Marble Arch,Waterloo,25,29,29,32,31
+Marble Arch,Westminster,16,21,21,25,27
+Maryland,Liverpool Street,382,362,362,221,98
+Maryland,Stratford,329,400,400,583,736
+Marylebone,Bank and Monument,322,250,253,230,182
+Marylebone,Bond Street,44,92,93,131,174
+Marylebone,Canary Wharf,165,187,107,134,78
+Marylebone,Euston,17,73,74,84,85
+Marylebone,Green Park,80,109,110,133,146
+Marylebone,Liverpool Street,115,203,206,188,148
+Marylebone,Oxford Circus,479,170,172,241,319
+Marylebone,Stratford,71,179,181,123,69
+Marylebone,Warren Street,15,76,77,91,98
+Marylebone,Waterloo,273,95,96,98,88
+Marylebone,Westminster,87,67,68,71,65
+Mile End,Bank and Monument,326,304,308,370,430
+Mile End,Bond Street,161,97,98,88,73
+Mile End,Canary Wharf,2,234,134,254,257
+Mile End,Euston,24,82,83,78,69
+Mile End,Green Park,36,119,120,110,91
+Mile End,Liverpool Street,541,251,254,327,412
+Mile End,Oxford Circus,279,180,183,169,143
+Mile End,Stratford,425,240,244,365,551
+Mile End,Warren Street,18,83,84,78,66
+Mile End,Waterloo,149,109,110,111,104
+Mile End,Westminster,108,76,77,74,66
+Mill Hill East,Bank and Monument,94,62,63,62,60
+Mill Hill East,Bond Street,16,21,22,23,24
+Mill Hill East,Canary Wharf,26,48,27,42,36
+Mill Hill East,Euston,28,18,18,21,24
+Mill Hill East,Green Park,19,26,26,27,28
+Mill Hill East,Liverpool Street,14,51,51,51,50
+Mill Hill East,Oxford Circus,25,39,40,43,46
+Mill Hill East,Stratford,9,46,46,40,33
+Mill Hill East,Warren Street,43,18,19,21,23
+Mill Hill East,Waterloo,37,23,23,23,23
+Mill Hill East,Westminster,4,16,17,17,17
+Moor Park,Bank and Monument,4,35,36,34,31
+Moor Park,Bond Street,14,12,12,12,12
+Moor Park,Canary Wharf,35,27,16,25,21
+Moor Park,Green Park,11,15,15,15,14
+Moor Park,Liverpool Street,24,29,29,28,25
+Moor Park,Oxford Circus,8,22,23,23,23
+Moor Park,Stratford,1,26,27,24,20
+Moor Park,Warren Street,0,10,10,10,10
+Moor Park,Waterloo,9,13,13,13,12
+Moor Park,Westminster,18,9,9,9,9
+Moorgate,Bank and Monument,700,213,217,407,673
+Moorgate,Bond Street,4,61,62,51,32
+Moorgate,Canary Wharf,128,142,81,114,67
+Moorgate,Euston,37,53,53,51,38
+Moorgate,Green Park,18,75,76,64,41
+Moorgate,Liverpool Street,200,182,185,442,980
+Moorgate,Oxford Circus,6,115,116,101,66
+Moorgate,Stratford,16,135,136,102,55
+Moorgate,Warren Street,2,53,54,49,34
+Moorgate,Waterloo,34,70,71,73,58
+Moorgate,Westminster,35,49,50,46,33
+Morden,Bank and Monument,698,345,350,365,380
+Morden,Bond Street,44,116,118,120,122
+Morden,Canary Wharf,217,266,152,251,228
+Morden,Euston,98,96,97,96,92
+Morden,Green Park,142,142,145,152,160
+Morden,Liverpool Street,72,279,283,289,293
+Morden,Oxford Circus,258,215,218,223,227
+Morden,Stratford,101,252,256,226,192
+Morden,Warren Street,129,98,100,99,98
+Morden,Waterloo,174,129,130,141,154
+Morden,Westminster,30,91,92,97,103
+Mornington Crescent,Bank and Monument,27,30,30,29,25
+Mornington Crescent,Bond Street,9,11,11,13,15
+Mornington Crescent,Canary Wharf,19,22,13,16,10
+Mornington Crescent,Euston,9,10,10,22,49
+Mornington Crescent,Green Park,10,13,13,15,16
+Mornington Crescent,Liverpool Street,4,24,25,24,22
+Mornington Crescent,Oxford Circus,12,20,20,27,34
+Mornington Crescent,Stratford,4,21,21,15,9
+Mornington Crescent,Warren Street,14,10,10,17,30
+Mornington Crescent,Waterloo,57,11,11,12,11
+Mornington Crescent,Westminster,7,8,8,8,8
+Mudchute,Bank and Monument,583,312,342,240,153
+Mudchute,Canary Wharf,73,273,169,359,436
+Mudchute,Stratford,43,236,259,180,115
+Neasden,Bank and Monument,26,100,101,96,88
+Neasden,Bond Street,90,35,35,39,42
+Neasden,Canary Wharf,60,77,44,65,51
+Neasden,Euston,2,29,29,30,30
+Neasden,Green Park,48,42,43,45,47
+Neasden,Liverpool Street,44,81,82,78,72
+Neasden,Oxford Circus,26,64,65,71,77
+Neasden,Stratford,27,74,75,63,50
+Neasden,Warren Street,3,29,30,31,32
+Neasden,Waterloo,65,37,38,38,37
+Neasden,Westminster,34,27,27,27,26
+Newbury Park,Bank and Monument,215,178,181,188,195
+Newbury Park,Bond Street,74,59,60,57,52
+Newbury Park,Canary Wharf,120,142,81,158,174
+Newbury Park,Euston,17,49,50,49,46
+Newbury Park,Green Park,20,72,73,69,64
+Newbury Park,Liverpool Street,261,146,148,157,167
+Newbury Park,Oxford Circus,109,110,111,106,99
+Newbury Park,Stratford,620,141,143,187,254
+Newbury Park,Warren Street,15,51,51,49,46
+Newbury Park,Waterloo,112,65,66,65,63
+Newbury Park,Westminster,32,46,47,45,43
+North Acton,Bank and Monument,133,132,134,126,114
+North Acton,Bond Street,65,46,47,52,58
+North Acton,Canary Wharf,30,101,58,84,65
+North Acton,Euston,19,38,38,39,39
+North Acton,Green Park,20,56,56,60,63
+North Acton,Liverpool Street,126,107,108,99,87
+North Acton,Oxford Circus,114,85,86,94,101
+North Acton,Stratford,24,96,98,77,56
+North Acton,Warren Street,18,39,39,41,42
+North Acton,Waterloo,19,49,50,49,47
+North Acton,Westminster,23,35,36,36,35
+North Ealing,Bank and Monument,3,28,29,26,22
+North Ealing,Bond Street,0,10,10,10,9
+North Ealing,Canary Wharf,5,22,13,18,14
+North Ealing,Euston,1,8,8,8,7
+North Ealing,Green Park,13,12,12,12,12
+North Ealing,Liverpool Street,1,23,23,21,17
+North Ealing,Oxford Circus,3,18,18,18,17
+North Ealing,Warren Street,2,8,8,8,7
+North Ealing,Waterloo,1,11,11,10,10
+North Ealing,Westminster,3,8,8,8,7
+North Greenwich,Bank and Monument,106,457,464,517,540
+North Greenwich,Bond Street,477,148,150,136,110
+North Greenwich,Canary Wharf,1616,403,232,809,1678
+North Greenwich,Euston,81,123,125,113,92
+North Greenwich,Green Park,349,181,184,169,139
+North Greenwich,Liverpool Street,58,369,375,402,400
+North Greenwich,Oxford Circus,117,275,280,257,214
+North Greenwich,Stratford,1034,355,361,462,570
+North Greenwich,Warren Street,92,127,129,117,96
+North Greenwich,Waterloo,599,166,168,169,156
+North Greenwich,Westminster,308,117,119,115,101
+North Harrow,Bank and Monument,24,91,93,88,80
+North Harrow,Bond Street,32,31,32,33,33
+North Harrow,Canary Wharf,96,71,41,62,51
+North Harrow,Green Park,26,38,39,39,38
+North Harrow,Liverpool Street,74,74,76,71,65
+North Harrow,Oxford Circus,20,58,59,61,61
+North Harrow,Stratford,13,68,69,60,50
+North Harrow,Warren Street,0,27,27,27,27
+North Harrow,Waterloo,17,34,35,34,32
+North Harrow,Westminster,33,24,25,24,23
+North Wembley,Bank and Monument,13,51,51,48,43
+North Wembley,Bond Street,4,17,18,18,19
+North Wembley,Canary Wharf,7,39,22,33,26
+North Wembley,Euston,41,15,15,15,16
+North Wembley,Green Park,3,21,22,22,21
+North Wembley,Liverpool Street,13,41,42,39,36
+North Wembley,Oxford Circus,27,32,33,33,34
+North Wembley,Stratford,1,37,38,32,25
+North Wembley,Warren Street,1,15,15,16,16
+North Wembley,Waterloo,11,19,19,18,17
+North Wembley,Westminster,6,13,14,13,12
+Northfields,Bank and Monument,46,128,130,121,106
+Northfields,Bond Street,16,44,45,45,44
+Northfields,Canary Wharf,56,99,57,85,66
+Northfields,Euston,15,36,37,36,33
+Northfields,Green Park,81,54,55,57,58
+Northfields,Liverpool Street,48,104,105,96,83
+Northfields,Oxford Circus,34,82,83,84,82
+Northfields,Stratford,10,94,96,77,57
+Northfields,Warren Street,19,37,38,37,35
+Northfields,Waterloo,15,48,49,48,46
+Northfields,Westminster,27,34,35,35,34
+Northolt,Bank and Monument,158,158,161,155,146
+Northolt,Bond Street,69,54,55,59,63
+Northolt,Canary Wharf,48,123,70,109,93
+Northolt,Euston,16,45,46,46,46
+Northolt,Green Park,15,66,67,70,72
+Northolt,Liverpool Street,149,128,130,123,115
+Northolt,Oxford Circus,88,101,102,107,113
+Northolt,Stratford,44,117,119,101,83
+Northolt,Warren Street,29,46,47,48,49
+Northolt,Waterloo,21,59,60,59,58
+Northolt,Westminster,28,42,43,43,43
+Northwick Park,Bank and Monument,23,92,93,88,80
+Northwick Park,Bond Street,44,32,32,34,34
+Northwick Park,Canary Wharf,89,71,41,62,50
+Northwick Park,Green Park,33,38,39,40,39
+Northwick Park,Liverpool Street,72,75,76,72,66
+Northwick Park,Oxford Circus,24,59,59,62,64
+Northwick Park,Stratford,20,68,69,60,49
+Northwick Park,Warren Street,0,27,27,28,27
+Northwick Park,Waterloo,30,34,35,34,32
+Northwick Park,Westminster,38,24,25,24,23
+Northwood,Bank and Monument,21,94,96,91,85
+Northwood,Bond Street,35,32,33,33,34
+Northwood,Canary Wharf,99,73,42,66,56
+Northwood,Green Park,29,39,40,40,40
+Northwood,Liverpool Street,77,77,78,74,69
+Northwood,Oxford Circus,30,60,61,62,62
+Northwood,Stratford,8,70,72,64,55
+Northwood,Warren Street,0,27,28,28,27
+Northwood,Waterloo,30,35,36,35,33
+Northwood,Westminster,47,25,25,25,24
+Northwood Hills,Bank and Monument,8,68,70,66,61
+Northwood Hills,Bond Street,19,23,24,24,24
+Northwood Hills,Canary Wharf,52,53,31,47,40
+Northwood Hills,Green Park,24,29,29,29,29
+Northwood Hills,Liverpool Street,53,56,57,54,50
+Northwood Hills,Oxford Circus,16,43,44,45,45
+Northwood Hills,Stratford,10,51,52,46,39
+Northwood Hills,Warren Street,0,20,20,20,20
+Northwood Hills,Waterloo,24,25,26,25,24
+Northwood Hills,Westminster,22,18,18,18,17
+Notting Hill Gate,Bank and Monument,425,201,203,186,154
+Notting Hill Gate,Bond Street,241,73,74,97,124
+Notting Hill Gate,Canary Wharf,172,152,87,114,73
+Notting Hill Gate,Euston,23,58,59,63,62
+Notting Hill Gate,Green Park,49,87,88,103,114
+Notting Hill Gate,Liverpool Street,408,162,164,144,114
+Notting Hill Gate,Oxford Circus,232,133,135,167,198
+Notting Hill Gate,Stratford,55,144,146,102,60
+Notting Hill Gate,Warren Street,14,60,61,68,71
+Notting Hill Gate,Waterloo,39,76,77,77,70
+Notting Hill Gate,Westminster,69,54,55,57,55
+Oakwood,Bank and Monument,59,80,81,81,80
+Oakwood,Bond Street,19,27,27,28,28
+Oakwood,Canary Wharf,33,62,35,57,51
+Oakwood,Euston,18,23,23,25,27
+Oakwood,Green Park,41,33,33,33,33
+Oakwood,Liverpool Street,22,65,66,66,66
+Oakwood,Oxford Circus,73,50,51,52,54
+Oakwood,Stratford,8,60,61,59,56
+Oakwood,Warren Street,44,23,24,25,26
+Oakwood,Waterloo,17,29,30,30,29
+Oakwood,Westminster,11,21,21,21,21
+Old Street,Bank and Monument,546,246,249,386,572
+Old Street,Bond Street,29,75,76,69,54
+Old Street,Canary Wharf,122,172,98,147,105
+Old Street,Euston,292,65,66,73,74
+Old Street,Green Park,96,91,92,82,63
+Old Street,Liverpool Street,12,204,207,353,589
+Old Street,Oxford Circus,167,140,142,134,111
+Old Street,Stratford,38,163,166,132,88
+Old Street,Warren Street,17,66,67,70,65
+Old Street,Waterloo,155,84,85,89,83
+Old Street,Westminster,50,59,60,58,49
+Osterley,Bank and Monument,33,63,64,60,55
+Osterley,Bond Street,13,22,22,22,22
+Osterley,Canary Wharf,41,49,28,43,35
+Osterley,Euston,8,18,18,18,17
+Osterley,Green Park,41,27,27,28,28
+Osterley,Liverpool Street,29,51,52,48,43
+Osterley,Oxford Circus,20,40,41,41,40
+Osterley,Stratford,7,47,47,39,31
+Osterley,Warren Street,12,18,19,18,18
+Osterley,Waterloo,7,24,24,24,23
+Osterley,Westminster,9,17,17,17,17
+Oval,Bank and Monument,349,159,161,195,233
+Oval,Bond Street,16,52,53,54,53
+Oval,Canary Wharf,140,117,67,103,83
+Oval,Euston,42,43,43,43,40
+Oval,Green Park,34,64,65,72,77
+Oval,Liverpool Street,26,127,129,144,156
+Oval,Oxford Circus,51,97,98,105,109
+Oval,Stratford,58,110,112,87,61
+Oval,Warren Street,38,44,45,46,44
+Oval,Waterloo,79,61,62,88,128
+Oval,Westminster,7,42,43,54,69
+Oxford Circus,Bank and Monument,202,116,118,114,94
+Oxford Circus,Bond Street,4,46,47,105,238
+Oxford Circus,Canary Wharf,27,85,49,59,32
+Oxford Circus,Euston,34,35,36,50,65
+Oxford Circus,Green Park,28,54,55,95,160
+Oxford Circus,Liverpool Street,151,93,94,84,63
+Oxford Circus,Stratford,75,81,82,51,25
+Oxford Circus,Warren Street,17,37,38,62,98
+Oxford Circus,Waterloo,49,45,45,53,55
+Oxford Circus,Westminster,6,32,32,39,42
+Paddington,Bank and Monument,493,884,,,
+Paddington,Bond Street,100,318,,,
+Paddington,Canary Wharf,772,667,,,
+Paddington,Euston,58,257,,,
+Paddington,Green Park,191,380,,,
+Paddington,Liverpool Street,937,719,,,
+Paddington,Oxford Circus,899,589,,,
+Paddington,Stratford,119,636,,,
+Paddington,Warren Street,18,265,,,
+Paddington,Waterloo,581,333,,,
+Paddington,Westminster,458,237,,,
+Park Royal,Bank and Monument,2,28,28,26,23
+Park Royal,Bond Street,1,9,10,10,9
+Park Royal,Canary Wharf,3,21,12,18,14
+Park Royal,Euston,1,8,8,8,7
+Park Royal,Green Park,7,12,12,12,13
+Park Royal,Liverpool Street,0,22,23,21,18
+Park Royal,Oxford Circus,0,18,18,18,18
+Park Royal,Stratford,0,20,21,17,12
+Park Royal,Warren Street,1,8,8,8,8
+Park Royal,Waterloo,1,10,11,10,10
+Park Royal,Westminster,2,7,8,8,7
+Parsons Green,Bank and Monument,194,178,181,167,141
+Parsons Green,Bond Street,49,62,63,67,68
+Parsons Green,Canary Wharf,167,136,78,109,77
+Parsons Green,Euston,26,51,52,51,47
+Parsons Green,Green Park,134,77,78,89,97
+Parsons Green,Liverpool Street,66,144,146,131,106
+Parsons Green,Oxford Circus,118,115,117,126,128
+Parsons Green,Stratford,15,129,131,97,63
+Parsons Green,Warren Street,48,52,53,54,51
+Parsons Green,Waterloo,14,67,68,70,68
+Parsons Green,Westminster,47,48,49,53,54
+Perivale,Bank and Monument,71,75,76,72,67
+Perivale,Bond Street,42,26,26,28,30
+Perivale,Canary Wharf,22,58,33,50,41
+Perivale,Euston,6,21,22,22,22
+Perivale,Green Park,8,32,32,33,34
+Perivale,Liverpool Street,59,61,62,58,52
+Perivale,Oxford Circus,51,48,49,51,54
+Perivale,Stratford,17,55,56,46,36
+Perivale,Warren Street,15,22,22,23,23
+Perivale,Waterloo,13,28,28,28,27
+Perivale,Westminster,15,20,20,20,20
+Piccadilly Circus,Bank and Monument,40,43,43,43,36
+Piccadilly Circus,Bond Street,1,16,16,23,29
+Piccadilly Circus,Canary Wharf,22,31,18,22,11
+Piccadilly Circus,Euston,5,12,13,14,14
+Piccadilly Circus,Green Park,8,20,20,39,70
+Piccadilly Circus,Liverpool Street,34,34,35,31,24
+Piccadilly Circus,Oxford Circus,9,30,30,52,85
+Piccadilly Circus,Stratford,18,30,30,19,9
+Piccadilly Circus,Warren Street,1,13,13,16,18
+Piccadilly Circus,Waterloo,48,17,17,24,29
+Piccadilly Circus,Westminster,2,12,12,17,21
+Pimlico,Bank and Monument,107,162,164,162,145
+Pimlico,Bond Street,34,57,58,70,80
+Pimlico,Canary Wharf,193,122,70,95,64
+Pimlico,Euston,135,46,47,49,47
+Pimlico,Green Park,217,72,73,102,141
+Pimlico,Liverpool Street,138,130,132,124,104
+Pimlico,Oxford Circus,333,106,107,132,154
+Pimlico,Stratford,29,115,116,82,49
+Pimlico,Warren Street,134,48,48,53,54
+Pimlico,Waterloo,18,63,64,78,92
+Pimlico,Westminster,12,45,46,64,85
+Pinner,Bank and Monument,31,133,135,128,119
+Pinner,Bond Street,50,45,46,47,48
+Pinner,Canary Wharf,175,103,59,91,77
+Pinner,Green Park,39,55,56,56,56
+Pinner,Liverpool Street,122,108,110,104,97
+Pinner,Oxford Circus,37,84,86,88,89
+Pinner,Stratford,16,99,101,89,75
+Pinner,Warren Street,0,39,39,39,39
+Pinner,Waterloo,35,49,50,49,47
+Pinner,Westminster,54,35,36,35,34
+Plaistow,Bank and Monument,94,156,158,167,164
+Plaistow,Bond Street,34,51,51,45,36
+Plaistow,Canary Wharf,126,127,73,164,201
+Plaistow,Euston,6,43,43,39,32
+Plaistow,Green Park,20,62,63,56,44
+Plaistow,Liverpool Street,141,128,130,142,146
+Plaistow,Oxford Circus,52,94,96,86,69
+Plaistow,Stratford,48,130,132,229,407
+Plaistow,Warren Street,5,43,44,39,32
+Plaistow,Waterloo,57,56,57,54,47
+Plaistow,Westminster,23,40,40,37,31
+Pontoon Dock,Bank and Monument,565,447,486,353,249
+Pontoon Dock,Canary Wharf,52,371,228,381,367
+Pontoon Dock,Stratford,240,354,384,349,321
+Poplar,Bank and Monument,749,498,547,341,175
+Poplar,Canary Wharf,55,469,291,796,1213
+Poplar,Stratford,164,378,415,265,140
+Preston Road,Bank and Monument,30,105,106,100,90
+Preston Road,Bond Street,40,36,37,39,39
+Preston Road,Canary Wharf,82,81,46,69,55
+Preston Road,Green Park,28,44,44,45,45
+Preston Road,Liverpool Street,76,85,86,81,73
+Preston Road,Oxford Circus,33,67,68,71,73
+Preston Road,Stratford,21,78,79,67,54
+Preston Road,Warren Street,0,31,31,32,31
+Preston Road,Waterloo,33,39,40,39,36
+Preston Road,Westminster,38,28,28,28,26
+Prince Regent,Bank and Monument,76,207,225,162,112
+Prince Regent,Canary Wharf,23,172,106,177,169
+Prince Regent,Stratford,0,164,178,162,147
+Pudding Mill Lane,Bank and Monument,2,96,105,67,38
+Pudding Mill Lane,Canary Wharf,66,80,49,75,59
+Pudding Mill Lane,Stratford,249,86,93,140,217
+Putney Bridge,Bank and Monument,129,121,122,114,100
+Putney Bridge,Bond Street,38,42,42,45,46
+Putney Bridge,Canary Wharf,55,93,53,76,56
+Putney Bridge,Euston,18,34,35,35,33
+Putney Bridge,Green Park,87,52,52,59,65
+Putney Bridge,Liverpool Street,41,98,99,90,76
+Putney Bridge,Oxford Circus,64,78,79,84,87
+Putney Bridge,Stratford,9,88,89,68,46
+Putney Bridge,Warren Street,19,35,36,37,35
+Putney Bridge,Waterloo,5,46,46,48,47
+Putney Bridge,Westminster,47,33,33,35,37
+Queen's Park,Bank and Monument,132,213,216,205,186
+Queen's Park,Bond Street,50,75,76,85,95
+Queen's Park,Canary Wharf,106,163,93,131,97
+Queen's Park,Euston,290,63,64,77,94
+Queen's Park,Green Park,32,90,91,97,101
+Queen's Park,Liverpool Street,119,174,177,169,156
+Queen's Park,Oxford Circus,378,138,140,157,176
+Queen's Park,Stratford,19,155,158,123,89
+Queen's Park,Warren Street,6,64,65,76,88
+Queen's Park,Waterloo,147,80,81,79,75
+Queen's Park,Westminster,46,57,57,57,55
+Queensbury,Bank and Monument,30,127,129,123,115
+Queensbury,Bond Street,104,44,44,46,48
+Queensbury,Canary Wharf,146,98,56,86,72
+Queensbury,Euston,0,36,37,37,37
+Queensbury,Green Park,46,53,54,55,56
+Queensbury,Liverpool Street,55,103,105,100,93
+Queensbury,Oxford Circus,21,81,82,86,90
+Queensbury,Stratford,23,94,96,84,71
+Queensbury,Warren Street,1,37,38,38,39
+Queensbury,Waterloo,77,47,48,47,46
+Queensbury,Westminster,54,34,34,34,33
+Queensway,Bank and Monument,276,118,120,111,95
+Queensway,Bond Street,119,43,44,62,87
+Queensway,Canary Wharf,101,89,51,67,43
+Queensway,Euston,33,34,35,38,40
+Queensway,Green Park,43,51,52,64,75
+Queensway,Liverpool Street,283,95,97,86,69
+Queensway,Oxford Circus,169,79,80,105,134
+Queensway,Stratford,40,84,86,60,36
+Queensway,Warren Street,13,36,36,42,46
+Queensway,Waterloo,33,45,45,46,44
+Queensway,Westminster,28,32,32,35,35
+Ravenscourt Park,Bank and Monument,45,67,68,61,48
+Ravenscourt Park,Bond Street,6,23,23,24,22
+Ravenscourt Park,Canary Wharf,41,51,29,40,27
+Ravenscourt Park,Euston,6,19,19,18,16
+Ravenscourt Park,Green Park,40,29,29,31,31
+Ravenscourt Park,Liverpool Street,9,54,55,48,36
+Ravenscourt Park,Oxford Circus,16,43,44,45,42
+Ravenscourt Park,Stratford,6,49,49,36,22
+Ravenscourt Park,Warren Street,2,20,20,19,17
+Ravenscourt Park,Waterloo,8,25,26,25,22
+Ravenscourt Park,Westminster,30,18,18,19,17
+Rayners Lane,Bank and Monument,21,151,153,143,128
+Rayners Lane,Bond Street,37,52,52,53,52
+Rayners Lane,Canary Wharf,103,117,67,101,82
+Rayners Lane,Green Park,20,63,64,63,61
+Rayners Lane,Liverpool Street,86,123,125,116,104
+Rayners Lane,Oxford Circus,26,96,97,98,97
+Rayners Lane,Stratford,19,112,114,98,81
+Rayners Lane,Warren Street,1,44,45,44,42
+Rayners Lane,Waterloo,29,56,57,55,51
+Rayners Lane,Westminster,38,40,40,39,36
+Rectory Road,Liverpool Street,457,250,250,256,247
+Rectory Road,Stratford,0,226,226,203,167
+Redbridge,Bank and Monument,111,92,94,97,100
+Redbridge,Bond Street,26,30,31,28,25
+Redbridge,Canary Wharf,79,74,42,83,92
+Redbridge,Euston,7,25,26,25,23
+Redbridge,Green Park,12,37,38,35,31
+Redbridge,Liverpool Street,139,75,77,82,86
+Redbridge,Oxford Circus,48,56,57,53,48
+Redbridge,Stratford,343,74,75,108,161
+Redbridge,Warren Street,7,26,26,25,23
+Redbridge,Waterloo,39,34,34,33,31
+Redbridge,Westminster,23,24,24,23,21
+Regent's Park,Bank and Monument,8,16,16,15,13
+Regent's Park,Bond Street,1,6,6,10,15
+Regent's Park,Canary Wharf,10,12,7,9,5
+Regent's Park,Euston,0,5,5,6,7
+Regent's Park,Green Park,5,7,7,10,14
+Regent's Park,Liverpool Street,2,13,13,12,9
+Regent's Park,Oxford Circus,6,12,12,22,42
+Regent's Park,Stratford,2,11,11,7,4
+Regent's Park,Warren Street,0,5,5,7,9
+Regent's Park,Waterloo,34,6,6,7,7
+Regent's Park,Westminster,2,4,4,5,5
+Richmond,Bank and Monument,162,199,202,192,178
+Richmond,Bond Street,8,68,69,71,73
+Richmond,Canary Wharf,5,154,88,135,111
+Richmond,Euston,13,56,57,57,55
+Richmond,Green Park,83,84,85,91,96
+Richmond,Liverpool Street,18,162,164,153,139
+Richmond,Oxford Circus,32,127,128,133,136
+Richmond,Stratford,17,147,149,123,96
+Richmond,Warren Street,14,58,59,59,58
+Richmond,Waterloo,1,75,76,76,76
+Richmond,Westminster,29,53,54,56,57
+Rickmansworth,Bank and Monument,10,59,60,58,54
+Rickmansworth,Bond Street,19,20,21,21,21
+Rickmansworth,Canary Wharf,53,46,27,42,37
+Rickmansworth,Green Park,21,25,25,25,25
+Rickmansworth,Liverpool Street,53,48,49,47,44
+Rickmansworth,Oxford Circus,25,37,38,38,39
+Rickmansworth,Stratford,7,44,45,41,36
+Rickmansworth,Warren Street,0,17,17,17,17
+Rickmansworth,Waterloo,17,22,22,22,21
+Rickmansworth,Westminster,21,16,16,16,15
+Roding Valley,Bank and Monument,34,29,30,29,28
+Roding Valley,Bond Street,9,10,10,9,7
+Roding Valley,Canary Wharf,18,23,13,24,25
+Roding Valley,Euston,1,8,8,7,7
+Roding Valley,Green Park,1,12,12,11,9
+Roding Valley,Liverpool Street,48,24,24,24,24
+Roding Valley,Oxford Circus,18,18,18,16,14
+Roding Valley,Stratford,59,23,23,29,38
+Roding Valley,Warren Street,1,8,8,8,7
+Roding Valley,Waterloo,4,11,11,10,9
+Roding Valley,Westminster,2,7,8,7,6
+Romford,Liverpool Street,1714,1924,1924,1650,1292
+Romford,Stratford,2031,1848,1848,1871,1787
+Royal Albert,Bank and Monument,58,147,160,119,87
+Royal Albert,Canary Wharf,17,122,75,125,122
+Royal Albert,Stratford,0,116,126,115,108
+Royal Oak,Bank and Monument,8,63,64,59,49
+Royal Oak,Bond Street,3,22,23,28,32
+Royal Oak,Canary Wharf,36,48,27,36,24
+Royal Oak,Green Park,9,27,27,30,32
+Royal Oak,Liverpool Street,122,51,52,48,40
+Royal Oak,Oxford Circus,10,41,42,51,59
+Royal Oak,Stratford,4,45,46,34,21
+Royal Oak,Warren Street,0,19,19,21,22
+Royal Oak,Waterloo,5,24,24,24,22
+Royal Oak,Westminster,8,17,17,17,16
+Royal Victoria,Bank and Monument,267,455,495,338,213
+Royal Victoria,Canary Wharf,87,382,235,394,367
+Royal Victoria,Stratford,0,363,395,356,311
+Ruislip,Bank and Monument,5,65,67,62,55
+Ruislip,Bond Street,14,22,23,23,22
+Ruislip,Canary Wharf,29,51,29,45,36
+Ruislip,Green Park,13,27,28,27,26
+Ruislip,Liverpool Street,33,53,54,50,45
+Ruislip,Oxford Circus,14,41,42,42,41
+Ruislip,Stratford,2,49,50,43,36
+Ruislip,Warren Street,0,19,19,19,18
+Ruislip,Waterloo,10,24,25,24,22
+Ruislip,Westminster,20,17,18,17,16
+Ruislip Gardens,Bank and Monument,55,54,55,52,49
+Ruislip Gardens,Bond Street,26,18,19,19,20
+Ruislip Gardens,Canary Wharf,17,42,24,37,32
+Ruislip Gardens,Euston,4,15,16,15,15
+Ruislip Gardens,Green Park,4,22,23,23,23
+Ruislip Gardens,Liverpool Street,57,44,44,42,38
+Ruislip Gardens,Oxford Circus,35,34,35,36,36
+Ruislip Gardens,Stratford,8,40,41,35,28
+Ruislip Gardens,Warren Street,4,16,16,16,16
+Ruislip Gardens,Waterloo,7,20,20,20,19
+Ruislip Gardens,Westminster,11,14,15,14,14
+Ruislip Manor,Bank and Monument,4,68,69,65,58
+Ruislip Manor,Bond Street,13,23,24,24,23
+Ruislip Manor,Canary Wharf,36,53,30,46,38
+Ruislip Manor,Green Park,13,28,29,28,27
+Ruislip Manor,Liverpool Street,33,56,56,53,47
+Ruislip Manor,Oxford Circus,16,43,44,44,43
+Ruislip Manor,Stratford,6,51,52,45,37
+Ruislip Manor,Warren Street,0,20,20,20,19
+Ruislip Manor,Waterloo,16,25,26,25,23
+Ruislip Manor,Westminster,17,18,18,18,16
+Russell Square,Bank and Monument,51,64,65,72,72
+Russell Square,Bond Street,13,22,22,25,27
+Russell Square,Canary Wharf,16,46,27,35,21
+Russell Square,Euston,2,19,19,27,37
+Russell Square,Green Park,73,27,27,31,33
+Russell Square,Liverpool Street,32,51,52,52,46
+Russell Square,Oxford Circus,16,41,41,52,61
+Russell Square,Stratford,15,44,44,30,16
+Russell Square,Warren Street,0,19,19,25,29
+Russell Square,Waterloo,31,24,24,26,26
+Russell Square,Westminster,62,17,17,19,19
+Seven Kings,Liverpool Street,1088,1421,1421,1156,817
+Seven Kings,Stratford,1887,1392,1392,1474,1429
+Seven Sisters,Bank and Monument,87,766,776,797,796
+Seven Sisters,Bond Street,103,258,261,265,261
+Seven Sisters,Canary Wharf,173,584,334,515,422
+Seven Sisters,Euston,386,219,222,249,276
+Seven Sisters,Green Park,439,314,318,317,306
+Seven Sisters,Liverpool Street,285,627,636,677,705
+Seven Sisters,Oxford Circus,1066,479,486,505,510
+Seven Sisters,Stratford,0,573,580,562,523
+Seven Sisters,Warren Street,649,223,226,247,265
+Seven Sisters,Waterloo,234,280,284,278,261
+Seven Sisters,Westminster,89,199,202,197,185
+Shadwell,Bank and Monument,1226,897,,,
+Shadwell,Canary Wharf,596,690,,,
+Shadwell,Stratford,15,627,,,
+Shenfield,Liverpool Street,0,109,109,98,83
+Shenfield,Stratford,29,103,103,103,96
+Shepherd's Bush,Bank and Monument,783,395,,,
+Shepherd's Bush,Bond Street,494,141,,,
+Shepherd's Bush,Canary Wharf,184,300,,,
+Shepherd's Bush,Euston,40,114,,,
+Shepherd's Bush,Green Park,66,169,,,
+Shepherd's Bush,Liverpool Street,802,319,,,
+Shepherd's Bush,Oxford Circus,603,258,,,
+Shepherd's Bush,Stratford,168,285,,,
+Shepherd's Bush,Warren Street,33,117,,,
+Shepherd's Bush,Waterloo,80,148,,,
+Shepherd's Bush,Westminster,89,106,,,
+Shepherd's Bush Market,Bank and Monument,3,82,84,74,59
+Shepherd's Bush Market,Bond Street,1,29,29,31,30
+Shepherd's Bush Market,Canary Wharf,11,63,36,49,32
+Shepherd's Bush Market,Green Park,8,35,36,37,36
+Shepherd's Bush Market,Liverpool Street,49,67,68,60,48
+Shepherd's Bush Market,Oxford Circus,1,53,54,57,56
+Shepherd's Bush Market,Stratford,1,60,61,45,29
+Shepherd's Bush Market,Warren Street,0,24,25,25,22
+Shepherd's Bush Market,Waterloo,6,31,31,30,26
+Shepherd's Bush Market,Westminster,6,22,22,22,20
+Shoreditch High Street,Stratford,0,179,179,170,135
+Silver Street,Liverpool Street,369,410,410,391,329
+Silver Street,Stratford,5,376,376,334,259
+Sloane Square,Bank and Monument,345,202,205,200,177
+Sloane Square,Bond Street,23,71,72,87,100
+Sloane Square,Canary Wharf,356,152,87,116,76
+Sloane Square,Euston,41,58,58,60,58
+Sloane Square,Green Park,42,90,91,130,181
+Sloane Square,Liverpool Street,128,163,165,152,126
+Sloane Square,Oxford Circus,101,132,134,165,193
+Sloane Square,Stratford,26,143,145,100,59
+Sloane Square,Warren Street,60,60,60,66,66
+Sloane Square,Waterloo,32,78,79,98,115
+Sloane Square,Westminster,55,57,58,80,110
+Snaresbrook,Bank and Monument,112,83,84,87,88
+Snaresbrook,Bond Street,33,27,28,25,22
+Snaresbrook,Canary Wharf,59,66,38,75,83
+Snaresbrook,Euston,8,23,23,22,20
+Snaresbrook,Green Park,14,33,34,31,27
+Snaresbrook,Liverpool Street,159,68,69,73,77
+Snaresbrook,Oxford Circus,55,51,52,47,42
+Snaresbrook,Stratford,328,67,69,102,159
+Snaresbrook,Warren Street,4,23,24,22,20
+Snaresbrook,Waterloo,37,30,31,30,27
+Snaresbrook,Westminster,18,21,22,20,18
+South Acton,Euston,9,47,47,46,35
+South Acton,Stratford,11,122,122,91,52
+South Ealing,Bank and Monument,38,94,96,89,78
+South Ealing,Bond Street,13,32,33,33,32
+South Ealing,Canary Wharf,41,73,42,62,48
+South Ealing,Euston,14,27,27,26,24
+South Ealing,Green Park,56,40,40,42,43
+South Ealing,Liverpool Street,34,76,78,71,60
+South Ealing,Oxford Circus,23,60,61,62,60
+South Ealing,Stratford,5,69,70,56,41
+South Ealing,Warren Street,18,27,28,27,26
+South Ealing,Waterloo,14,35,36,36,34
+South Ealing,Westminster,15,25,26,26,25
+South Hampstead,Euston,139,52,52,67,82
+South Harrow,Bank and Monument,7,70,71,65,58
+South Harrow,Bond Street,2,24,24,24,23
+South Harrow,Canary Wharf,9,54,31,47,38
+South Harrow,Euston,1,20,20,19,18
+South Harrow,Green Park,15,29,30,30,29
+South Harrow,Liverpool Street,3,57,57,53,47
+South Harrow,Oxford Circus,5,44,45,44,43
+South Harrow,Stratford,0,52,53,45,37
+South Harrow,Warren Street,0,20,21,20,19
+South Harrow,Waterloo,3,26,26,25,24
+South Harrow,Westminster,4,19,19,18,18
+South Kensington,Bank and Monument,229,204,207,193,163
+South Kensington,Bond Street,37,72,73,89,102
+South Kensington,Canary Wharf,267,154,88,117,76
+South Kensington,Euston,34,59,59,62,60
+South Kensington,Green Park,227,91,92,130,179
+South Kensington,Liverpool Street,123,164,167,148,119
+South Kensington,Oxford Circus,80,135,136,167,196
+South Kensington,Stratford,32,145,147,102,60
+South Kensington,Warren Street,38,61,61,67,69
+South Kensington,Waterloo,33,78,79,89,94
+South Kensington,Westminster,80,57,57,70,82
+South Kenton,Bank and Monument,10,56,57,52,46
+South Kenton,Bond Street,3,19,20,20,20
+South Kenton,Canary Wharf,9,43,25,36,29
+South Kenton,Euston,35,16,16,17,17
+South Kenton,Green Park,2,23,24,23,23
+South Kenton,Liverpool Street,6,45,46,43,38
+South Kenton,Oxford Circus,22,35,36,36,36
+South Kenton,Stratford,5,41,42,35,27
+South Kenton,Warren Street,0,16,17,17,17
+South Kenton,Waterloo,12,21,21,20,18
+South Kenton,Westminster,1,15,15,14,13
+South Quay,Bank and Monument,898,375,412,272,155
+South Quay,Canary Wharf,58,344,214,541,776
+South Quay,Stratford,43,284,311,204,115
+South Ruislip,Bank and Monument,87,67,68,65,62
+South Ruislip,Bond Street,41,23,23,24,26
+South Ruislip,Canary Wharf,23,52,30,47,40
+South Ruislip,Euston,7,19,19,19,19
+South Ruislip,Green Park,7,28,28,29,30
+South Ruislip,Liverpool Street,70,54,55,52,49
+South Ruislip,Oxford Circus,49,43,43,45,46
+South Ruislip,Stratford,16,50,50,43,36
+South Ruislip,Warren Street,7,20,20,20,20
+South Ruislip,Waterloo,9,25,25,25,24
+South Ruislip,Westminster,15,18,18,18,18
+South Tottenham,Stratford,0,127,127,112,86
+South Wimbledon,Bank and Monument,489,173,175,182,185
+South Wimbledon,Bond Street,20,58,59,59,59
+South Wimbledon,Canary Wharf,123,133,76,123,108
+South Wimbledon,Euston,41,48,49,47,44
+South Wimbledon,Green Park,85,71,72,76,78
+South Wimbledon,Liverpool Street,34,140,142,143,142
+South Wimbledon,Oxford Circus,126,107,109,111,110
+South Wimbledon,Stratford,30,126,128,110,90
+South Wimbledon,Warren Street,74,49,50,49,47
+South Wimbledon,Waterloo,65,64,65,71,76
+South Wimbledon,Westminster,9,45,46,49,50
+South Woodford,Bank and Monument,304,179,181,189,195
+South Woodford,Bond Street,67,59,60,55,49
+South Woodford,Canary Wharf,170,142,82,161,179
+South Woodford,Euston,12,49,50,48,44
+South Woodford,Green Park,27,72,73,68,61
+South Woodford,Liverpool Street,369,146,148,159,168
+South Woodford,Oxford Circus,108,109,111,104,94
+South Woodford,Stratford,779,144,146,208,311
+South Woodford,Warren Street,13,50,51,48,44
+South Woodford,Waterloo,85,65,66,64,61
+South Woodford,Westminster,34,46,47,45,41
+Southbury,Liverpool Street,141,159,159,152,137
+Southbury,Stratford,2,147,147,133,112
+Southfields,Bank and Monument,134,220,223,210,191
+Southfields,Bond Street,36,76,77,80,83
+Southfields,Canary Wharf,79,169,97,143,113
+Southfields,Euston,27,62,63,63,61
+Southfields,Green Park,89,93,95,104,113
+Southfields,Liverpool Street,44,178,180,166,147
+Southfields,Oxford Circus,93,140,142,150,155
+Southfields,Stratford,20,161,163,129,95
+Southfields,Warren Street,34,64,65,66,65
+Southfields,Waterloo,3,83,84,86,86
+Southfields,Westminster,53,59,60,63,65
+Southgate,Bank and Monument,109,154,156,157,157
+Southgate,Bond Street,29,52,53,54,55
+Southgate,Canary Wharf,53,119,68,110,97
+Southgate,Euston,45,44,45,48,53
+Southgate,Green Park,80,64,65,65,66
+Southgate,Liverpool Street,61,126,127,129,130
+Southgate,Oxford Circus,121,97,98,102,106
+Southgate,Stratford,27,116,117,114,109
+Southgate,Warren Street,88,45,46,49,53
+Southgate,Waterloo,38,57,58,58,57
+Southgate,Westminster,22,40,41,41,40
+Southwark,Bank and Monument,25,215,218,299,387
+Southwark,Bond Street,437,69,69,72,67
+Southwark,Canary Wharf,1429,153,88,127,89
+Southwark,Euston,27,56,57,56,48
+Southwark,Green Park,328,86,87,101,108
+Southwark,Liverpool Street,5,170,172,204,221
+Southwark,Oxford Circus,28,129,130,145,146
+Southwark,Stratford,159,143,145,103,61
+Southwark,Warren Street,24,58,59,61,56
+Southwark,Waterloo,68,87,88,192,434
+Southwark,Westminster,119,58,58,90,134
+St James Street,Liverpool Street,704,284,284,271,220
+St James Street,Stratford,0,259,259,225,163
+St. James's Park,Bank and Monument,150,75,76,81,75
+St. James's Park,Bond Street,11,26,26,31,32
+St. James's Park,Canary Wharf,98,56,32,42,26
+St. James's Park,Euston,15,21,21,21,19
+St. James's Park,Green Park,5,33,33,47,61
+St. James's Park,Liverpool Street,62,60,61,59,50
+St. James's Park,Oxford Circus,11,48,49,58,62
+St. James's Park,Stratford,16,52,53,36,19
+St. James's Park,Warren Street,6,22,22,23,22
+St. James's Park,Waterloo,12,30,31,50,77
+St. James's Park,Westminster,7,23,24,56,138
+St. John's Wood,Bank and Monument,127,134,136,129,116
+St. John's Wood,Bond Street,156,48,49,63,81
+St. John's Wood,Canary Wharf,386,101,58,79,55
+St. John's Wood,Euston,2,39,39,44,48
+St. John's Wood,Green Park,135,58,58,68,78
+St. John's Wood,Liverpool Street,135,109,111,105,94
+St. John's Wood,Oxford Circus,36,89,90,116,150
+St. John's Wood,Stratford,27,97,98,73,48
+St. John's Wood,Warren Street,2,40,41,47,53
+St. John's Wood,Waterloo,104,50,51,53,53
+St. John's Wood,Westminster,101,36,36,38,39
+St. Paul's,Bank and Monument,40,42,43,82,155
+St. Paul's,Bond Street,75,12,13,13,11
+St. Paul's,Canary Wharf,1,28,16,24,17
+St. Paul's,Euston,4,10,11,10,9
+St. Paul's,Green Park,15,15,15,16,14
+St. Paul's,Liverpool Street,56,32,33,47,63
+St. Paul's,Oxford Circus,78,23,24,26,25
+St. Paul's,Stratford,83,26,27,20,12
+St. Paul's,Warren Street,4,11,11,11,10
+St. Paul's,Waterloo,5,14,14,15,14
+St. Paul's,Westminster,1,10,10,10,8
+Stamford Brook,Bank and Monument,52,80,81,73,59
+Stamford Brook,Bond Street,7,28,28,29,27
+Stamford Brook,Canary Wharf,45,62,35,49,34
+Stamford Brook,Euston,7,23,23,22,19
+Stamford Brook,Green Park,45,34,35,37,37
+Stamford Brook,Liverpool Street,7,65,66,58,45
+Stamford Brook,Oxford Circus,23,51,52,53,50
+Stamford Brook,Stratford,2,58,59,44,28
+Stamford Brook,Warren Street,8,23,24,23,21
+Stamford Brook,Waterloo,11,30,31,30,27
+Stamford Brook,Westminster,33,22,22,22,21
+Stamford Hill,Liverpool Street,230,186,186,163,116
+Stamford Hill,Stratford,0,169,169,134,84
+Stanmore,Bank and Monument,33,116,118,114,109
+Stanmore,Bond Street,116,40,41,42,44
+Stanmore,Canary Wharf,208,90,52,81,70
+Stanmore,Euston,0,33,34,34,34
+Stanmore,Green Park,77,49,49,50,52
+Stanmore,Liverpool Street,73,95,96,93,88
+Stanmore,Oxford Circus,38,74,75,78,82
+Stanmore,Stratford,32,87,88,79,69
+Stanmore,Warren Street,1,34,34,35,36
+Stanmore,Waterloo,61,43,44,44,43
+Stanmore,Westminster,96,31,31,31,31
+Star Lane,Bank and Monument,0,100,110,70,40
+Star Lane,Canary Wharf,2,84,52,82,69
+Star Lane,Stratford,164,84,91,95,98
+Stepney Green,Bank and Monument,103,119,121,152,185
+Stepney Green,Bond Street,20,38,38,34,28
+Stepney Green,Canary Wharf,10,91,52,101,104
+Stepney Green,Euston,9,32,32,30,26
+Stepney Green,Green Park,17,46,47,42,35
+Stepney Green,Liverpool Street,54,99,100,138,187
+Stepney Green,Oxford Circus,32,70,71,65,55
+Stepney Green,Stratford,133,90,91,113,136
+Stepney Green,Warren Street,2,32,33,30,25
+Stepney Green,Waterloo,21,42,43,43,41
+Stepney Green,Westminster,53,30,30,29,25
+Stockwell,Bank and Monument,870,456,462,521,566
+Stockwell,Bond Street,60,152,154,163,165
+Stockwell,Canary Wharf,229,340,195,297,233
+Stockwell,Euston,204,124,126,121,109
+Stockwell,Green Park,467,189,192,221,249
+Stockwell,Liverpool Street,67,366,372,393,397
+Stockwell,Oxford Circus,724,282,286,306,313
+Stockwell,Stratford,65,321,325,253,176
+Stockwell,Warren Street,294,128,130,129,121
+Stockwell,Waterloo,178,173,175,222,278
+Stockwell,Westminster,20,121,122,143,163
+Stoke Newington,Liverpool Street,512,292,292,292,271
+Stoke Newington,Stratford,1,265,265,235,189
+Stonebridge Park,Bank and Monument,20,64,65,60,53
+Stonebridge Park,Bond Street,9,22,22,24,25
+Stonebridge Park,Canary Wharf,11,49,28,41,31
+Stonebridge Park,Euston,82,18,19,20,21
+Stonebridge Park,Green Park,8,27,27,28,27
+Stonebridge Park,Liverpool Street,13,52,53,49,44
+Stonebridge Park,Oxford Circus,27,41,41,43,44
+Stonebridge Park,Stratford,9,47,48,39,29
+Stonebridge Park,Warren Street,2,19,19,20,21
+Stonebridge Park,Waterloo,26,24,24,23,21
+Stonebridge Park,Westminster,5,17,17,17,16
+Stratford,Bank and Monument,1138,2233,2263,2486,2601
+Stratford,Bond Street,835,723,733,657,539
+Stratford,Canary Wharf,3875,1805,1034,2296,2817
+Stratford,Euston,70,609,617,582,508
+Stratford,Green Park,502,886,898,812,673
+Stratford,Liverpool Street,6946,1834,1859,2145,2381
+Stratford,Oxford Circus,1047,1346,1364,1246,1045
+Stratford,Warren Street,56,622,630,582,496
+Stratford,Waterloo,1448,807,817,795,720
+Stratford,Westminster,679,569,576,542,471
+Stratford High Street,Stratford,96,154,154,233,302
+Stratford International,Canary Wharf,57,526,330,414,268
+Stratford International,Stratford,1461,578,642,902,1327
+Sudbury Hill,Bank and Monument,5,61,62,58,53
+Sudbury Hill,Bond Street,5,21,21,21,21
+Sudbury Hill,Canary Wharf,11,48,27,42,34
+Sudbury Hill,Euston,1,17,18,17,16
+Sudbury Hill,Green Park,12,26,26,26,27
+Sudbury Hill,Liverpool Street,8,50,51,46,41
+Sudbury Hill,Oxford Circus,7,39,39,39,38
+Sudbury Hill,Stratford,2,45,46,38,30
+Sudbury Hill,Warren Street,2,18,18,18,17
+Sudbury Hill,Waterloo,4,23,23,23,22
+Sudbury Hill,Westminster,9,16,17,16,16
+Sudbury Town,Bank and Monument,11,72,73,68,62
+Sudbury Town,Bond Street,2,25,25,25,24
+Sudbury Town,Canary Wharf,10,56,32,48,40
+Sudbury Town,Euston,1,20,21,20,19
+Sudbury Town,Green Park,17,30,31,31,32
+Sudbury Town,Liverpool Street,12,58,59,54,48
+Sudbury Town,Oxford Circus,5,45,46,46,46
+Sudbury Town,Stratford,1,53,54,44,35
+Sudbury Town,Warren Street,3,21,21,21,20
+Sudbury Town,Waterloo,6,27,27,27,26
+Sudbury Town,Westminster,5,19,19,19,19
+Swiss Cottage,Bank and Monument,90,147,149,141,124
+Swiss Cottage,Bond Street,233,52,53,65,78
+Swiss Cottage,Canary Wharf,362,111,64,88,61
+Swiss Cottage,Euston,2,42,43,47,49
+Swiss Cottage,Green Park,184,63,64,72,78
+Swiss Cottage,Liverpool Street,98,119,121,115,101
+Swiss Cottage,Oxford Circus,45,96,98,120,144
+Swiss Cottage,Stratford,30,106,108,81,54
+Swiss Cottage,Warren Street,3,44,44,50,54
+Swiss Cottage,Waterloo,121,55,56,57,55
+Swiss Cottage,Westminster,136,39,40,41,40
+Temple,Bank and Monument,33,16,16,22,28
+Temple,Bond Street,2,5,5,6,6
+Temple,Canary Wharf,7,11,6,9,6
+Temple,Euston,2,4,4,4,4
+Temple,Green Park,4,6,6,8,9
+Temple,Liverpool Street,9,12,13,15,16
+Temple,Oxford Circus,6,10,10,12,13
+Temple,Stratford,3,10,11,7,4
+Temple,Warren Street,0,4,4,5,5
+Temple,Waterloo,3,6,6,9,13
+Temple,Westminster,20,4,4,6,9
+Theobalds Grove,Liverpool Street,81,171,171,163,145
+Theobalds Grove,Stratford,0,158,158,144,122
+Theydon Bois,Bank and Monument,55,36,37,37,37
+Theydon Bois,Bond Street,16,12,12,11,11
+Theydon Bois,Canary Wharf,33,29,17,30,32
+Theydon Bois,Euston,2,10,10,10,9
+Theydon Bois,Green Park,4,15,15,14,13
+Theydon Bois,Liverpool Street,86,30,30,31,31
+Theydon Bois,Oxford Circus,24,22,23,21,20
+Theydon Bois,Stratford,74,28,29,33,40
+Theydon Bois,Warren Street,1,10,11,10,9
+Theydon Bois,Waterloo,15,13,14,13,13
+Theydon Bois,Westminster,4,9,10,9,9
+Tooting Bec,Bank and Monument,697,290,294,311,315
+Tooting Bec,Bond Street,27,97,99,101,98
+Tooting Bec,Canary Wharf,206,221,127,202,169
+Tooting Bec,Euston,87,80,81,79,72
+Tooting Bec,Green Park,173,120,122,130,134
+Tooting Bec,Liverpool Street,52,234,238,243,237
+Tooting Bec,Oxford Circus,310,180,183,188,184
+Tooting Bec,Stratford,41,210,213,179,137
+Tooting Bec,Warren Street,129,82,84,82,77
+Tooting Bec,Waterloo,180,109,110,123,133
+Tooting Bec,Westminster,26,76,78,83,87
+Tooting Broadway,Bank and Monument,763,404,410,436,455
+Tooting Broadway,Bond Street,49,135,137,142,143
+Tooting Broadway,Canary Wharf,199,309,177,288,252
+Tooting Broadway,Euston,128,112,113,111,106
+Tooting Broadway,Green Park,205,167,169,182,193
+Tooting Broadway,Liverpool Street,63,327,331,342,345
+Tooting Broadway,Oxford Circus,376,251,255,264,268
+Tooting Broadway,Stratford,94,293,297,255,207
+Tooting Broadway,Warren Street,175,115,117,116,113
+Tooting Broadway,Waterloo,238,151,153,171,190
+Tooting Broadway,Westminster,31,106,108,117,124
+Tottenham Court Road,Bank and Monument,190,75,76,79,71
+Tottenham Court Road,Bond Street,26,27,27,41,55
+Tottenham Court Road,Canary Wharf,20,54,31,38,21
+Tottenham Court Road,Euston,22,22,22,31,38
+Tottenham Court Road,Green Park,9,32,33,45,56
+Tottenham Court Road,Liverpool Street,171,60,61,57,46
+Tottenham Court Road,Oxford Circus,11,52,53,96,167
+Tottenham Court Road,Stratford,89,51,52,33,16
+Tottenham Court Road,Warren Street,11,23,24,38,57
+Tottenham Court Road,Waterloo,66,29,29,36,40
+Tottenham Court Road,Westminster,13,20,21,26,29
+Tottenham Hale,Bank and Monument,29,370,375,380,365
+Tottenham Hale,Bond Street,47,124,126,126,120
+Tottenham Hale,Canary Wharf,22,283,162,249,200
+Tottenham Hale,Euston,342,106,107,117,124
+Tottenham Hale,Green Park,266,152,154,152,141
+Tottenham Hale,Liverpool Street,6,303,307,321,321
+Tottenham Hale,Oxford Circus,620,232,235,240,233
+Tottenham Hale,Stratford,0,277,281,270,243
+Tottenham Hale,Warren Street,402,108,109,117,120
+Tottenham Hale,Waterloo,86,136,138,133,121
+Tottenham Hale,Westminster,57,96,98,94,86
+Totteridge & Whetstone,Bank and Monument,179,104,105,104,102
+Totteridge & Whetstone,Bond Street,21,35,36,38,40
+Totteridge & Whetstone,Canary Wharf,36,80,46,72,62
+Totteridge & Whetstone,Euston,66,30,30,34,39
+Totteridge & Whetstone,Green Park,30,43,44,45,47
+Totteridge & Whetstone,Liverpool Street,19,85,86,86,85
+Totteridge & Whetstone,Oxford Circus,65,66,67,71,76
+Totteridge & Whetstone,Stratford,8,77,78,68,58
+Totteridge & Whetstone,Warren Street,62,31,31,34,38
+Totteridge & Whetstone,Waterloo,69,39,39,39,40
+Totteridge & Whetstone,Westminster,11,27,28,28,28
+Tower Gateway,Bank and Monument,0,204,222,231,254
+Tower Gateway,Canary Wharf,128,158,97,166,166
+Tower Gateway,Stratford,4,146,158,123,95
+Tower Hill,Bank and Monument,75,401,407,799,1508
+Tower Hill,Bond Street,84,116,117,105,77
+Tower Hill,Canary Wharf,2,269,154,236,167
+Tower Hill,Euston,35,97,98,88,65
+Tower Hill,Green Park,103,142,144,131,98
+Tower Hill,Liverpool Street,114,315,319,518,781
+Tower Hill,Oxford Circus,127,217,220,204,158
+Tower Hill,Stratford,54,256,259,214,143
+Tower Hill,Warren Street,7,99,101,91,69
+Tower Hill,Waterloo,82,132,134,147,139
+Tower Hill,Westminster,395,92,94,93,79
+Tufnell Park,Bank and Monument,192,119,120,119,111
+Tufnell Park,Bond Street,19,41,42,48,53
+Tufnell Park,Canary Wharf,35,90,51,72,52
+Tufnell Park,Euston,130,36,36,51,74
+Tufnell Park,Green Park,41,50,51,56,60
+Tufnell Park,Liverpool Street,18,97,98,99,94
+Tufnell Park,Oxford Circus,61,77,78,93,110
+Tufnell Park,Stratford,9,86,87,68,48
+Tufnell Park,Warren Street,111,36,37,49,65
+Tufnell Park,Waterloo,109,44,45,46,45
+Tufnell Park,Westminster,19,31,32,33,32
+Turkey Street,Liverpool Street,148,235,235,226,205
+Turkey Street,Stratford,2,216,216,198,170
+Turnham Green,Bank and Monument,135,153,156,141,117
+Turnham Green,Bond Street,16,53,54,55,52
+Turnham Green,Canary Wharf,111,118,68,95,68
+Turnham Green,Euston,22,44,44,43,38
+Turnham Green,Green Park,82,65,66,71,72
+Turnham Green,Liverpool Street,25,124,126,112,90
+Turnham Green,Oxford Circus,60,98,100,102,98
+Turnham Green,Stratford,9,112,113,85,57
+Turnham Green,Warren Street,22,45,46,45,41
+Turnham Green,Waterloo,21,58,59,58,54
+Turnham Green,Westminster,56,41,42,43,41
+Turnpike Lane,Bank and Monument,155,275,279,281,277
+Turnpike Lane,Bond Street,49,93,95,98,99
+Turnpike Lane,Canary Wharf,75,211,121,187,155
+Turnpike Lane,Euston,80,79,80,92,105
+Turnpike Lane,Green Park,131,114,115,117,116
+Turnpike Lane,Liverpool Street,88,225,228,233,232
+Turnpike Lane,Oxford Circus,238,174,176,186,194
+Turnpike Lane,Stratford,38,206,209,200,184
+Turnpike Lane,Warren Street,152,81,82,91,101
+Turnpike Lane,Waterloo,71,102,103,103,99
+Turnpike Lane,Westminster,36,72,73,73,71
+Upminster,Bank and Monument,10,34,34,35,35
+Upminster,Bond Street,0,11,11,11,10
+Upminster,Canary Wharf,0,27,16,29,31
+Upminster,Euston,1,9,10,9,9
+Upminster,Green Park,0,14,14,13,12
+Upminster,Liverpool Street,0,28,28,29,29
+Upminster,Oxford Circus,16,21,21,20,19
+Upminster,Stratford,0,26,27,31,36
+Upminster,Warren Street,1,10,10,9,9
+Upminster,Waterloo,0,12,13,12,12
+Upminster,Westminster,16,9,9,9,8
+Upminster Bridge,Bank and Monument,19,42,43,43,42
+Upminster Bridge,Bond Street,7,14,14,13,12
+Upminster Bridge,Canary Wharf,21,33,19,36,37
+Upminster Bridge,Euston,1,12,12,11,10
+Upminster Bridge,Green Park,4,17,17,16,15
+Upminster Bridge,Liverpool Street,20,34,35,35,35
+Upminster Bridge,Oxford Circus,7,26,26,25,22
+Upminster Bridge,Stratford,14,32,33,37,42
+Upminster Bridge,Warren Street,0,12,12,11,10
+Upminster Bridge,Waterloo,6,15,16,15,14
+Upminster Bridge,Westminster,11,11,11,11,10
+Upney,Bank and Monument,35,79,80,82,81
+Upney,Bond Street,15,26,26,24,21
+Upney,Canary Wharf,45,63,36,72,80
+Upney,Euston,4,22,22,21,18
+Upney,Green Park,15,32,32,30,26
+Upney,Liverpool Street,45,64,65,68,69
+Upney,Oxford Circus,23,48,49,45,39
+Upney,Stratford,62,62,63,80,101
+Upney,Warren Street,1,22,23,21,18
+Upney,Waterloo,21,29,29,28,26
+Upney,Westminster,14,20,21,19,17
+Upper Holloway,Stratford,3,83,83,70,52
+Upton Park,Bank and Monument,131,251,254,271,276
+Upton Park,Bond Street,65,82,83,75,63
+Upton Park,Canary Wharf,273,203,117,257,315
+Upton Park,Euston,9,69,70,65,57
+Upton Park,Green Park,42,100,102,93,78
+Upton Park,Liverpool Street,195,205,208,229,242
+Upton Park,Oxford Circus,96,152,154,142,121
+Upton Park,Stratford,164,204,208,325,524
+Upton Park,Warren Street,7,70,71,65,56
+Upton Park,Waterloo,108,91,92,89,81
+Upton Park,Westminster,49,64,65,61,54
+Uxbridge,Bank and Monument,9,115,117,112,106
+Uxbridge,Bond Street,30,39,40,40,41
+Uxbridge,Canary Wharf,52,90,51,82,72
+Uxbridge,Euston,0,33,33,33,33
+Uxbridge,Green Park,27,48,49,49,49
+Uxbridge,Liverpool Street,90,94,95,91,87
+Uxbridge,Oxford Circus,32,73,74,75,76
+Uxbridge,Stratford,11,86,88,79,70
+Uxbridge,Warren Street,0,33,34,34,34
+Uxbridge,Waterloo,22,43,43,42,41
+Uxbridge,Westminster,42,30,31,30,30
+Vauxhall,Bank and Monument,158,670,679,686,651
+Vauxhall,Bond Street,154,233,236,281,324
+Vauxhall,Canary Wharf,220,505,289,413,300
+Vauxhall,Euston,789,190,192,202,202
+Vauxhall,Green Park,1409,292,296,397,529
+Vauxhall,Liverpool Street,230,539,547,526,471
+Vauxhall,Oxford Circus,2152,433,439,529,620
+Vauxhall,Stratford,80,476,483,357,233
+Vauxhall,Warren Street,1078,196,199,217,227
+Vauxhall,Waterloo,10,257,260,314,370
+Vauxhall,Westminster,17,185,188,248,325
+Victoria,Bank and Monument,480,1411,,,
+Victoria,Bond Street,365,504,,,
+Victoria,Canary Wharf,379,1049,,,
+Victoria,Euston,1968,403,,,
+Victoria,Green Park,1989,651,,,
+Victoria,Liverpool Street,550,1133,,,
+Victoria,Oxford Circus,5181,939,,,
+Victoria,Stratford,222,987,,,
+Victoria,Warren Street,2599,418,,,
+Victoria,Waterloo,98,556,,,
+Victoria,Westminster,227,411,,,
+Walthamstow Central,Bank and Monument,66,735,745,804,861
+Walthamstow Central,Bond Street,84,242,246,237,221
+Walthamstow Central,Canary Wharf,68,561,322,527,469
+Walthamstow Central,Euston,391,205,208,214,217
+Walthamstow Central,Green Park,439,295,300,285,262
+Walthamstow Central,Liverpool Street,1547,601,610,680,757
+Walthamstow Central,Oxford Circus,1008,450,457,447,426
+Walthamstow Central,Stratford,0,550,558,570,572
+Walthamstow Central,Warren Street,664,209,212,215,214
+Walthamstow Central,Waterloo,204,267,271,269,260
+Walthamstow Central,Westminster,96,189,191,185,174
+Wanstead,Bank and Monument,130,89,91,94,96
+Wanstead,Bond Street,40,29,30,27,24
+Wanstead,Canary Wharf,60,71,41,81,90
+Wanstead,Euston,6,25,25,24,21
+Wanstead,Green Park,14,36,37,33,29
+Wanstead,Liverpool Street,170,73,74,79,83
+Wanstead,Oxford Circus,55,55,55,51,45
+Wanstead,Stratford,370,73,74,110,173
+Wanstead,Warren Street,7,25,26,24,21
+Wanstead,Waterloo,51,33,33,32,30
+Wanstead,Westminster,22,23,23,22,20
+Warren Street,Bank and Monument,21,79,80,77,64
+Warren Street,Bond Street,4,29,29,42,57
+Warren Street,Canary Wharf,61,58,33,41,23
+Warren Street,Euston,8,26,27,62,148
+Warren Street,Green Park,66,34,35,46,55
+Warren Street,Liverpool Street,8,64,64,60,48
+Warren Street,Oxford Circus,42,55,56,95,156
+Warren Street,Stratford,13,55,56,37,19
+Warren Street,Waterloo,72,30,30,33,32
+Warren Street,Westminster,10,21,21,23,23
+Warwick Avenue,Bank and Monument,119,101,102,94,78
+Warwick Avenue,Bond Street,19,36,36,44,51
+Warwick Avenue,Canary Wharf,134,77,44,58,38
+Warwick Avenue,Euston,7,29,30,32,31
+Warwick Avenue,Green Park,25,43,44,49,51
+Warwick Avenue,Liverpool Street,88,82,83,76,64
+Warwick Avenue,Oxford Circus,187,67,68,81,94
+Warwick Avenue,Stratford,12,73,74,54,34
+Warwick Avenue,Warren Street,6,30,31,34,35
+Warwick Avenue,Waterloo,76,38,39,38,35
+Warwick Avenue,Westminster,24,27,27,28,26
+Waterloo,Bank and Monument,15946,2697,,,
+Waterloo,Bond Street,2164,893,,,
+Waterloo,Canary Wharf,8085,1945,,,
+Waterloo,Euston,1190,732,,,
+Waterloo,Green Park,1389,1122,,,
+Waterloo,Liverpool Street,1571,2143,,,
+Waterloo,Oxford Circus,2425,1680,,,
+Waterloo,Stratford,1268,1822,,,
+Waterloo,Warren Street,923,760,,,
+Waterloo,Waterloo,58,4902,,,
+Waterloo,Westminster,717,775,,,
+Watford,Bank and Monument,10,68,69,66,63
+Watford,Bond Street,27,23,24,24,24
+Watford,Canary Wharf,56,53,30,48,43
+Watford,Green Park,16,28,29,29,28
+Watford,Liverpool Street,55,55,56,54,51
+Watford,Oxford Circus,15,43,44,44,45
+Watford,Stratford,8,51,52,47,42
+Watford,Warren Street,0,20,20,20,20
+Watford,Waterloo,23,25,26,25,24
+Watford,Westminster,28,18,18,18,17
+Watford High Street,Euston,41,43,43,40,31
+Watford High Street,Stratford,0,113,113,92,61
+Watford Junction,Euston,0,45,45,44,37
+Watford Junction,Stratford,2,118,118,100,73
+Wembley Central,Bank and Monument,29,93,95,88,80
+Wembley Central,Bond Street,14,32,33,34,36
+Wembley Central,Canary Wharf,21,72,41,61,48
+Wembley Central,Euston,77,27,27,29,31
+Wembley Central,Green Park,7,39,40,40,40
+Wembley Central,Liverpool Street,14,76,77,73,66
+Wembley Central,Oxford Circus,49,60,60,62,64
+Wembley Central,Stratford,11,69,70,58,45
+Wembley Central,Warren Street,1,27,28,29,30
+Wembley Central,Waterloo,23,35,35,34,32
+Wembley Central,Westminster,5,25,25,24,23
+Wembley Park,Bank and Monument,72,291,295,283,267
+Wembley Park,Bond Street,164,101,102,110,120
+Wembley Park,Canary Wharf,224,224,128,194,159
+Wembley Park,Euston,3,83,84,87,89
+Wembley Park,Green Park,119,122,124,130,136
+Wembley Park,Liverpool Street,210,237,240,231,217
+Wembley Park,Oxford Circus,99,186,189,205,222
+Wembley Park,Stratford,59,216,219,189,157
+Wembley Park,Warren Street,1,85,86,90,94
+Wembley Park,Waterloo,160,109,110,110,109
+Wembley Park,Westminster,118,77,78,79,78
+West Acton,Bank and Monument,89,55,56,52,46
+West Acton,Bond Street,42,19,19,21,22
+West Acton,Canary Wharf,23,42,24,35,27
+West Acton,Euston,8,16,16,16,15
+West Acton,Green Park,6,23,24,24,24
+West Acton,Liverpool Street,78,45,45,41,35
+West Acton,Oxford Circus,39,35,36,38,39
+West Acton,Stratford,10,40,41,32,23
+West Acton,Warren Street,9,16,16,17,16
+West Acton,Waterloo,5,21,21,20,19
+West Acton,Westminster,8,15,15,15,14
+West Brompton,Bank and Monument,55,146,148,135,108
+West Brompton,Bond Street,11,51,52,56,56
+West Brompton,Canary Wharf,25,111,64,86,56
+West Brompton,Euston,8,42,42,42,37
+West Brompton,Green Park,21,63,64,77,85
+West Brompton,Liverpool Street,20,118,119,105,81
+West Brompton,Oxford Circus,27,95,96,106,107
+West Brompton,Stratford,7,105,106,76,45
+West Brompton,Warren Street,12,43,44,45,41
+West Brompton,Waterloo,3,55,56,59,55
+West Brompton,Westminster,32,40,40,44,45
+West Finchley,Bank and Monument,144,74,75,73,70
+West Finchley,Bond Street,8,25,26,27,28
+West Finchley,Canary Wharf,16,57,32,50,41
+West Finchley,Euston,45,21,22,24,28
+West Finchley,Green Park,25,31,31,32,33
+West Finchley,Liverpool Street,18,60,61,60,58
+West Finchley,Oxford Circus,40,47,48,51,54
+West Finchley,Stratford,11,54,55,47,38
+West Finchley,Warren Street,43,22,22,24,27
+West Finchley,Waterloo,32,27,28,28,27
+West Finchley,Westminster,11,19,20,20,19
+West Ham,Bank and Monument,29,355,360,377,357
+West Ham,Bond Street,205,115,117,100,74
+West Ham,Canary Wharf,608,291,167,384,470
+West Ham,Euston,8,97,98,87,68
+West Ham,Green Park,218,141,143,123,93
+West Ham,Liverpool Street,61,291,295,323,321
+West Ham,Oxford Circus,50,214,217,189,144
+West Ham,Stratford,997,304,308,608,1227
+West Ham,Warren Street,8,99,100,87,67
+West Ham,Waterloo,384,128,130,121,99
+West Ham,Westminster,105,90,92,82,65
+West Hampstead,Bank and Monument,124,409,415,387,334
+West Hampstead,Bond Street,555,144,146,170,192
+West Hampstead,Canary Wharf,680,311,178,247,173
+West Hampstead,Euston,5,118,119,126,126
+West Hampstead,Green Park,329,174,176,192,200
+West Hampstead,Liverpool Street,184,333,337,315,272
+West Hampstead,Oxford Circus,107,267,270,315,353
+West Hampstead,Stratford,76,300,304,242,173
+West Hampstead,Warren Street,6,121,123,133,137
+West Hampstead,Waterloo,254,153,155,155,146
+West Hampstead,Westminster,321,109,111,112,106
+West Harrow,Bank and Monument,5,48,49,46,40
+West Harrow,Bond Street,15,17,17,17,17
+West Harrow,Canary Wharf,29,37,22,32,26
+West Harrow,Green Park,7,20,21,20,19
+West Harrow,Liverpool Street,42,39,40,37,33
+West Harrow,Oxford Circus,16,31,31,32,31
+West Harrow,Stratford,4,36,37,31,25
+West Harrow,Warren Street,0,14,14,14,13
+West Harrow,Waterloo,15,18,18,18,16
+West Harrow,Westminster,20,13,13,13,11
+West India Quay,Bank and Monument,81,36,39,22,9
+West India Quay,Canary Wharf,0,35,22,68,106
+West India Quay,Stratford,19,27,30,16,6
+West Kensington,Bank and Monument,133,113,114,102,81
+West Kensington,Bond Street,17,39,40,42,41
+West Kensington,Canary Wharf,80,86,49,66,42
+West Kensington,Euston,26,32,33,32,28
+West Kensington,Green Park,28,49,49,57,61
+West Kensington,Liverpool Street,14,91,92,80,61
+West Kensington,Oxford Circus,56,73,74,79,78
+West Kensington,Stratford,11,81,82,58,34
+West Kensington,Warren Street,27,33,34,34,30
+West Kensington,Waterloo,21,43,43,44,41
+West Kensington,Westminster,70,31,31,33,33
+West Ruislip,Bank and Monument,82,56,57,55,52
+West Ruislip,Bond Street,28,19,19,20,21
+West Ruislip,Canary Wharf,12,43,25,39,34
+West Ruislip,Euston,1,16,16,16,16
+West Ruislip,Green Park,4,23,24,24,25
+West Ruislip,Liverpool Street,62,45,46,44,41
+West Ruislip,Oxford Circus,36,35,36,37,38
+West Ruislip,Stratford,13,41,42,37,31
+West Ruislip,Warren Street,3,16,17,17,17
+West Ruislip,Waterloo,5,21,21,21,20
+West Ruislip,Westminster,10,15,15,15,15
+West Silvertown,Bank and Monument,195,200,218,154,105
+West Silvertown,Canary Wharf,22,167,103,173,167
+West Silvertown,Stratford,129,159,173,157,144
+Westbourne Park,Bank and Monument,13,103,105,97,84
+Westbourne Park,Bond Street,17,37,37,44,50
+Westbourne Park,Canary Wharf,35,79,45,62,43
+Westbourne Park,Green Park,21,44,45,49,52
+Westbourne Park,Liverpool Street,146,84,85,79,69
+Westbourne Park,Oxford Circus,21,68,69,81,93
+Westbourne Park,Stratford,13,75,76,57,38
+Westbourne Park,Warren Street,0,31,31,34,35
+Westbourne Park,Waterloo,16,39,39,39,37
+Westbourne Park,Westminster,19,28,28,28,27
+Westferry,Bank and Monument,1216,495,542,392,258
+Westferry,Canary Wharf,25,445,275,687,1006
+Westferry,Stratford,28,368,403,266,157
+Westminster,Bank and Monument,66,64,65,70,66
+Westminster,Bond Street,40,22,22,27,30
+Westminster,Canary Wharf,257,47,27,35,21
+Westminster,Euston,7,18,18,18,16
+Westminster,Green Park,25,28,29,44,65
+Westminster,Liverpool Street,25,51,52,51,43
+Westminster,Oxford Circus,6,41,42,51,58
+Westminster,Stratford,42,44,44,29,16
+Westminster,Warren Street,3,18,19,20,20
+Westminster,Waterloo,15,26,27,52,98
+White City,Bank and Monument,181,105,107,99,87
+White City,Bond Street,98,37,38,44,51
+White City,Canary Wharf,38,80,46,64,46
+White City,Euston,9,30,31,32,31
+White City,Green Park,25,45,45,50,53
+White City,Liverpool Street,137,85,86,78,66
+White City,Oxford Circus,133,68,69,79,87
+White City,Stratford,47,76,77,58,39
+White City,Warren Street,7,31,31,34,34
+White City,Waterloo,25,39,40,40,37
+White City,Westminster,27,28,28,29,28
+White Hart Lane,Liverpool Street,231,242,242,232,194
+White Hart Lane,Stratford,2,221,221,197,150
+Whitechapel,Bank and Monument,411,505,512,701,925
+Whitechapel,Bond Street,7,157,159,142,112
+Whitechapel,Canary Wharf,0,384,220,440,462
+Whitechapel,Euston,6,132,134,128,110
+Whitechapel,Green Park,2,192,195,176,142
+Whitechapel,Liverpool Street,153,422,428,668,1030
+Whitechapel,Oxford Circus,18,292,296,273,224
+Whitechapel,Stratford,235,363,368,389,376
+Whitechapel,Warren Street,0,135,137,126,104
+Whitechapel,Waterloo,18,177,179,185,174
+Whitechapel,Westminster,90,124,126,122,106
+Willesden Green,Bank and Monument,102,237,240,228,208
+Willesden Green,Bond Street,270,83,84,95,106
+Willesden Green,Canary Wharf,204,181,104,150,114
+Willesden Green,Euston,8,68,69,72,74
+Willesden Green,Green Park,183,100,101,109,115
+Willesden Green,Liverpool Street,129,193,195,185,169
+Willesden Green,Oxford Circus,78,153,155,175,196
+Willesden Green,Stratford,39,174,177,147,114
+Willesden Green,Warren Street,5,70,71,75,79
+Willesden Green,Waterloo,161,89,90,90,88
+Willesden Green,Westminster,157,63,64,65,64
+Willesden Junction,Bank and Monument,17,209,212,195,169
+Willesden Junction,Bond Street,14,73,74,80,85
+Willesden Junction,Canary Wharf,21,160,92,129,95
+Willesden Junction,Euston,144,61,62,68,73
+Willesden Junction,Green Park,14,88,89,92,92
+Willesden Junction,Liverpool Street,19,171,173,160,141
+Willesden Junction,Oxford Circus,96,135,136,144,148
+Willesden Junction,Stratford,49,154,156,122,89
+Willesden Junction,Warren Street,2,62,63,67,71
+Willesden Junction,Waterloo,30,78,79,75,69
+Willesden Junction,Westminster,10,56,56,55,51
+Wimbledon,Bank and Monument,126,297,301,290,275
+Wimbledon,Bond Street,10,102,103,108,114
+Wimbledon,Canary Wharf,1,229,131,202,170
+Wimbledon,Euston,4,84,85,86,85
+Wimbledon,Green Park,45,125,127,138,151
+Wimbledon,Liverpool Street,10,240,244,230,213
+Wimbledon,Oxford Circus,17,189,191,202,213
+Wimbledon,Stratford,1,218,221,184,146
+Wimbledon,Warren Street,6,86,88,89,91
+Wimbledon,Waterloo,1,111,113,116,119
+Wimbledon,Westminster,40,79,80,85,89
+Wimbledon Park,Bank and Monument,38,77,78,74,66
+Wimbledon Park,Bond Street,12,27,27,28,28
+Wimbledon Park,Canary Wharf,27,60,34,51,40
+Wimbledon Park,Euston,5,22,22,22,21
+Wimbledon Park,Green Park,29,33,33,36,38
+Wimbledon Park,Liverpool Street,9,63,64,58,51
+Wimbledon Park,Oxford Circus,23,49,50,52,52
+Wimbledon Park,Stratford,3,57,58,46,34
+Wimbledon Park,Warren Street,9,23,23,23,22
+Wimbledon Park,Westminster,9,21,21,22,22
+Wood Green,Bank and Monument,149,275,279,282,280
+Wood Green,Bond Street,48,93,94,98,100
+Wood Green,Canary Wharf,64,211,121,189,161
+Wood Green,Euston,79,79,80,91,104
+Wood Green,Green Park,121,113,115,117,118
+Wood Green,Liverpool Street,86,224,227,233,235
+Wood Green,Oxford Circus,227,173,176,186,195
+Wood Green,Stratford,51,206,209,201,188
+Wood Green,Warren Street,147,81,82,91,100
+Wood Green,Waterloo,74,101,103,103,101
+Wood Green,Westminster,31,72,73,73,72
+Wood Lane,Bank and Monument,0,51,52,46,38
+Wood Lane,Bond Street,0,18,18,20,20
+Wood Lane,Canary Wharf,0,39,22,30,21
+Wood Lane,Green Park,0,22,22,22,22
+Wood Lane,Liverpool Street,8,41,42,38,31
+Wood Lane,Oxford Circus,0,33,33,36,37
+Wood Lane,Stratford,0,37,38,28,19
+Wood Lane,Warren Street,0,15,15,16,15
+Wood Lane,Waterloo,0,19,19,18,16
+Wood Lane,Westminster,0,14,14,13,12
+Wood Street,Liverpool Street,632,290,290,287,253
+Wood Street,Stratford,0,266,266,243,195
+Woodford,Bank and Monument,317,209,212,221,228
+Woodford,Bond Street,88,69,70,65,59
+Woodford,Canary Wharf,192,167,96,186,206
+Woodford,Euston,15,58,59,57,53
+Woodford,Green Park,25,85,86,80,73
+Woodford,Liverpool Street,424,171,174,185,196
+Woodford,Oxford Circus,119,128,130,123,113
+Woodford,Stratford,891,167,169,230,326
+Woodford,Warren Street,18,59,60,57,53
+Woodford,Waterloo,86,77,78,76,73
+Woodford,Westminster,47,54,55,53,49
+Woodside Park,Bank and Monument,240,136,139,137,135
+Woodside Park,Bond Street,29,47,47,50,53
+Woodside Park,Canary Wharf,42,105,60,94,81
+Woodside Park,Euston,87,39,40,45,52
+Woodside Park,Green Park,48,57,58,60,63
+Woodside Park,Liverpool Street,27,111,113,113,112
+Woodside Park,Oxford Circus,69,87,88,95,102
+Woodside Park,Stratford,18,101,102,89,75
+Woodside Park,Warren Street,102,40,41,45,51
+Woodside Park,Waterloo,101,51,51,52,52
+Woodside Park,Westminster,15,36,37,37,37
+Woolwich Arsenal,Bank and Monument,1340,1867,2037,1622,1339
+Woolwich Arsenal,Canary Wharf,82,1517,936,1546,1544
+Woolwich Arsenal,Stratford,1642,1451,1584,1447,1410
